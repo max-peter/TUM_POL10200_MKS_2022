@@ -21,7 +21,7 @@ g[]
 g[1,3] = 1 # Zuweisen eines Kantenwertes
 g[]
 plot(g)
-g[1,3] = 0 # Löschen einer Kante
+g[1,3] = 0 # Lï¿½schen einer Kante
 plot(g)
 
 # Vereinfachen des Netzwerkes, also Entfernen von doppelten
@@ -46,18 +46,18 @@ plot(g, vertex.size=5, vertex.label=NA)
 g = simplify(g, remove.multiple = T, remove.loops = T)
 plot(g, vertex.size=5, vertex.label=NA)
 
-# Wir erzeugen einen Vektor zum Einfärben der Knoten nach
+# Wir erzeugen einen Vektor zum Einfï¿½rben der Knoten nach
 # Knotentypen 
 V(g)$name
-col1 = rep("orange", 14) # es gibt 14 Ausschüsse
+col1 = rep("orange", 14) # es gibt 14 Ausschï¿½sse
 col1
 col2 = rep("lightblue", vcount(g) - 14) # der Rest sind Personen
 col2
 length(col2)
 col=c(col1,col2)
 length(col)
-# Dies wird jetzt zum Färben der Knoten verwendet
-# Zudem werden weitere optische Veränderungen gemacht
+# Dies wird jetzt zum Fï¿½rben der Knoten verwendet
+# Zudem werden weitere optische Verï¿½nderungen gemacht
 plot(g, vertex.size=5, vertex.label=NA, vertex.color=col)
 # und jetzt noch die Labels in schwarz und ein bisschen kleiner
 plot(g, vertex.size=7, vertex.label.cex=0.6, vertex.color=col,

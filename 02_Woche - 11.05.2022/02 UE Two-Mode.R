@@ -7,7 +7,7 @@ g = graph_from_data_frame(txt, directed = F)
 g = simplify(g, remove.multiple = T, remove.loops = T)
 V(g)$name
 V(g)$color = c(rep("orange",14) , rep("lightblue",vcount(g)-14))
-plot(g, vertex.size=5, vertex.label=NA)
+plot(g, vertex.size=10, vertex.label=NA)
 
 # Dieses Netzwerk ist ein 2-Mode Netzwerk -> Personen und Gremien
 # Zuordnung zu Modes (=Farben) sollte "automatisch" geschehen
@@ -19,7 +19,7 @@ vertex_attr(g)
 plot(g, vertex.size=5, vertex.label=NA)
 
 ################
-# wir können die Anzahl der Knoten ermitteln (unique)
+# wir kï¿½nnen die Anzahl der Knoten ermitteln (unique)
 head(txt)
 nPersonen = length(unique(txt$MdL))
 nAusschuss = length(unique(txt$Ausschuss))
@@ -27,13 +27,13 @@ V(g)$color = c(rep("orange",nAusschuss) , rep("lightblue",nPersonen))
 plot(g, vertex.size=5, vertex.label=NA)
 ####
 
-# Netzwerklösung
+# Netzwerklï¿½sung
 g = delete_vertex_attr(g, "color")
 bipartite.mapping(g)
 V(g)$type = bipartite.mapping(g)$type
 vertex_attr(g)
 
-# Zurodnung von Shape und Color über Type
+# Zurodnung von Shape und Color ï¿½ber Type
 V(g)$color = ifelse(V(g)$type == TRUE, "lightblue", "salmon")
 V(g)$shape = ifelse(V(g)$type == TRUE, "circle", "square")
 plot(g, vertex.size=5, vertex.label=NA)
@@ -45,17 +45,17 @@ projections
 gAus = projections$proj1
 gPers = projections$proj2
 
-# die Ausschüsse verbunden über gemeinsame Personen
+# die Ausschï¿½sse verbunden ï¿½ber gemeinsame Personen
 plot(gAus)
 E(gAus)$weight
 plot(gAus, edge.width=E(gAus)$weight*3)
 
-# die Personen verbunden über gemeinsame Ausschüsse
+# die Personen verbunden ï¿½ber gemeinsame Ausschï¿½sse
 plot(gPers, edge.width=E(gPers)$weight*3, vertex.size=5,
      vertex.label.cex=0.6, vertex.label.color="black")
 
 ##################################
-#Knotengröße nach Degree-Zentralität
+#Knotengrï¿½ï¿½e nach Degree-Zentralitï¿½t
 deg = centr_degree(gPers)$res
 hist(deg)
 deg

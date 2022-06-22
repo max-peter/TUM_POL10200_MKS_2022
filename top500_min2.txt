@@ -1,0 +1,2102 @@
+Manager	Company
+A. Michael Spence	General Mills
+A. Michael Spence	Nike
+A. Steven Crown	Caesars Entertainment, Inc.
+A. Steven Crown	Hilton Hotels
+A. Thomas Young	Goodrich
+A. Thomas Young	Pepco Holdings
+A. Thomas Young	Science Applications Intl.
+Addison Barry Rand	Abbott Laboratories
+Addison Barry Rand	Agilent Technologies
+Addison Barry Rand	AT&T Wireless Services
+Admiral Joseph W. Prueher	Emerson Electric
+Admiral Joseph W. Prueher	Merrill Lynch
+Admiral Joseph W. Prueher	New York Life Insurance
+Alain J.P. Belda	Alcoa
+Alain J.P. Belda	Citigroup
+Alain J.P. Belda	DuPont
+Alan C. Greenberg	Bear Stearns
+Alan C. Greenberg	Viacom
+Alan G. Lafley	General Electric
+Alan G. Lafley	General Motors
+Alan G. Lafley	Procter & Gamble
+Alan G. Spoon	Danaher
+Alan G. Spoon	InterActiveCorp
+Alan L. Boeckmann	Burlington Northern Santa Fe
+Alan L. Boeckmann	Fluor
+Alan S. Dawes	AutoNation
+Alan S. Dawes	Delphi
+Albert R. Gamper, Jr.	CIT Group
+Albert R. Gamper, Jr.	Public Service Enterprise Group
+Alex Shumate	Limited Brands
+Alex Shumate	Nationwide
+Alexander M. Cutler	Eaton
+Alexander M. Cutler	KeyCorp
+Alexis Herman	Cummins
+Alexis Herman	Entergy
+Alexis Herman	MGM Mirage
+Allan D. Gilmour	DTE Energy
+Allan D. Gilmour	Whirlpool
+Allan L. Schuman	Ecolab
+Allan L. Schuman	Xcel Energy
+Alston D. Correll	Georgia-Pacific
+Alston D. Correll	Mirant
+Alston D. Correll	Norfolk Southern
+Alston D. Correll	SunTrust Banks
+Ambassador Charlene Barshefsky	American Express
+Ambassador Charlene Barshefsky	Intel
+Andrall E. Pearson	Citigroup
+Andrall E. Pearson	Yum Brands
+Andrea Jung	Avon Products
+Andrea Jung	General Electric
+Andrew J. McKenna	Aon
+Andrew J. McKenna	McDonalds
+Ann Dibble Jordan	Automatic Data Proc.
+Ann Dibble Jordan	Citigroup
+Ann Dibble Jordan	Johnson & Johnson
+Ann McLaughlin Korologos	AMR
+Ann McLaughlin Korologos	Fannie Mae
+Ann McLaughlin Korologos	Host Marriott
+Ann McLaughlin Korologos	Kellogg
+Ann McLaughlin Korologos	Microsoft
+Ann N. Reese	Jones Apparel Group
+Ann N. Reese	Kmart Holding
+Ann N. Reese	Xerox
+Anne M. Mulcahy	Fannie Mae
+Anne M. Mulcahy	Target
+Anne M. Mulcahy	Xerox
+Anne M. Tatlock	Fortune Brands
+Anne M. Tatlock	Merck
+Anthony F. Earley, Jr.	DTE Energy
+Anthony F. Earley, Jr.	Masco
+Anthony M. Frank	Charles Schwab
+Anthony M. Frank	Temple-Inland
+Anthony P. Terracciano	Avaya
+Anthony P. Terracciano	Ikon Office Solutions
+Archie R. Dykes	Fleming
+Archie R. Dykes	PepsiAmericas
+Archie W. Dunham	ConocoPhillips
+Archie W. Dunham	Phelps Dodge
+Archie W. Dunham	Union Pacific
+Armando M. Codina	AMR
+Armando M. Codina	BellSouth
+Armando M. Codina	General Motors
+Arnold G. Langbo	Johnson & Johnson
+Arnold G. Langbo	Weyerhaeuser
+Arnold G. Langbo	Whirlpool
+Arthur C. Martinez	Liz Claiborne
+Arthur C. Martinez	PepsiCo
+Arthur D. Collins, Jr.	Medtronic
+Arthur D. Collins, Jr.	U.S. Bancorp
+Arthur F. Weinbach	Automatic Data Proc.
+Arthur F. Weinbach	First Data
+Arthur F. Weinbach	Schering-Plough
+August A. Busch III	Anheuser-Busch
+August A. Busch III	Emerson Electric
+August A. Busch III	SBC Communications
+Aulana L. Peters	3M
+Aulana L. Peters	Deere
+Aulana L. Peters	Merrill Lynch
+Aulana L. Peters	Northrop Grumman
+Aylwin B. Lewis	Halliburton
+Aylwin B. Lewis	Walt Disney
+B. Charles Ames	Lexmark International
+B. Charles Ames	Progressive
+Barbara Hackman Franklin	Aetna
+Barbara Hackman Franklin	Dow Chemical
+Barbara L. Bowles	Black & Decker
+Barbara L. Bowles	Dollar General
+Barbara L. Bowles	Georgia-Pacific
+Barbara L. Bowles	Wisconsin Energy
+Barbara S. Feigin	Circuit City Stores
+Barbara S. Feigin	VF
+Barbara T. Alexander	Burlington Resources
+Barbara T. Alexander	Centex
+Barbara T. Alexander	Harrahs Entertainment
+Barry Diller	Coca-Cola
+Barry Diller	InterActiveCorp
+Barry L. Williams	Northwestern Mutual
+Barry L. Williams	PG&E Corp.
+Barry L. Williams	SLM
+Barry Munitz	KB Home
+Barry Munitz	SLM
+Barry W. Perry	Arrow Electronics
+Barry W. Perry	Engelhard
+Basil L. Anderson	Becton Dickinson
+Basil L. Anderson	Staples
+Benjamin F. Bailar	Dana
+Benjamin F. Bailar	Smith International
+Benjamin F. Montoya	Jacobs Engineering Group
+Benjamin F. Montoya	Wells Fargo
+Benjamin J. Lambert, III	Dominion Resources
+Benjamin J. Lambert, III	SLM
+Bernadine P. Healy, M.D.	National City Corp.
+Bernadine P. Healy, M.D.	Progressive
+Bernard G. Rethore	Dover
+Bernard G. Rethore	Maytag
+Beth M. Pritchard	Borders Group
+Beth M. Pritchard	Ecolab
+Betsy Bernard	Principal Financial
+Betsy Bernard	United Technologies
+Betty C. Alewine	New York Life Insurance
+Betty C. Alewine	Pittston
+Betty C. Alewine	Rockwell Automation
+Blythe J. McGarvie	Pepsi Bottling
+Blythe J. McGarvie	St. Paul Travelers
+Bob L. Martin	Dillards
+Bob L. Martin	Gap
+Bobby R. Inman	Fluor
+Bobby R. Inman	SBC Communications
+Bobby R. Inman	Temple-Inland
+Bobby S. Shackouls	Burlington Resources
+Bobby S. Shackouls	Kroger
+Bonnie Hill	Albertsons
+Bonnie Hill	Hershey Foods
+Bonnie Hill	Home Depot
+Bonnie Hill	Yum Brands
+Brenda C. Barnes	Avon Products
+Brenda C. Barnes	New York Times
+Brenda C. Barnes	PepsiAmericas
+Brenda C. Barnes	Sears Roebuck
+Brenda C. Barnes	Staples
+Brian L. Roberts	Bank of New York Co.
+Brian L. Roberts	Comcast
+Bruce Karatz	Avery Dennison
+Bruce Karatz	Edison International
+Bruce Karatz	Honeywell Intl.
+Bruce Karatz	KB Home
+Bruce S. Gordon	Office Depot
+Bruce S. Gordon	Southern
+C. Michael Armstrong	Citigroup
+C. Michael Armstrong	Comcast
+C. Robert Kidder	Electronic Data Systems
+C. Robert Kidder	Morgan Stanley
+C. Steven McMillan	Bank of America Corp.
+C. Steven McMillan	Sara Lee
+Calvin Darden	Coca-Cola Enterprises
+Calvin Darden	Target
+Calvin Darden	United Parcel Service
+Carl E. Mundy, Jr.	General Dynamics
+Carl E. Mundy, Jr.	Schering-Plough
+Carl E. Reichardt	ConAgra Foods
+Carl E. Reichardt	Ford Motor
+Carl E. Reichardt	PG&E Corp.
+Carla Anderson Hills	American Intl. Group
+Carla Anderson Hills	ChevronTexaco
+Carla Anderson Hills	Lucent Technologies
+Carla Anderson Hills	Time Warner Inc.
+Carlos A. Saladrigas	Advance Auto Parts
+Carlos A. Saladrigas	Progress Energy
+Carlos Ghosn	Alcoa
+Carlos Ghosn	Intl. Business Machines
+Carolyn H. Byrd	Circuit City Stores
+Carolyn H. Byrd	St. Paul Travelers
+Carolyn M. Ticknor	AT&T Wireless Services
+Carolyn M. Ticknor	Boise Cascade
+Carolyn Y. Woo	Aon
+Carolyn Y. Woo	Circuit City Stores
+Carolyn Y. Woo	NiSource
+Cary D. McMillan	McDonalds
+Cary D. McMillan	Sara Lee
+Catherine A. Rein	Bank of New York Co.
+Catherine A. Rein	FirstEnergy
+Cathleen Black	Coca-Cola
+Cathleen Black	Intl. Business Machines
+Charlene Barshefsky	Estée Lauder
+Charlene Barshefsky	Starwood Hotels & Restaurants
+Charles A. Davis	Marsh & McLennan
+Charles A. Davis	Progressive
+Charles E. Bunch	H.J. Heinz
+Charles E. Bunch	PPG Industries
+Charles E. Rice	CSX
+Charles E. Rice	Sprint
+Charles F. Knight	Anheuser-Busch
+Charles F. Knight	Emerson Electric
+Charles F. Knight	Intl. Business Machines
+Charles F. Knight	Morgan Stanley
+Charles F. Knight	SBC Communications
+Charles H. Noski	Microsoft
+Charles H. Noski	Northrop Grumman
+Charles M. Lillis	Charter Communications
+Charles M. Lillis	Supervalu
+Charles M. Lillis	Williams Companies, Inc.
+Charles M. Vest	DuPont
+Charles M. Vest	Intl. Business Machines
+Charles O. Holliday, Jr.	DuPont
+Charles O. Holliday, Jr.	HCA
+Charles R. Lee	Marathon Oil
+Charles R. Lee	Procter & Gamble
+Charles R. Lee	United States Steel
+Charles R. Lee	United Technologies
+Charles R. Lee	Verizon Communications
+Charles R. Schwab	Charles Schwab
+Charles R. Schwab	Gap
+Charles R. Shoemate	ChevronTexaco
+Charles R. Shoemate	Cigna
+Charles R. Shoemate	International Paper
+Charles T. Munger	Berkshire Hathaway
+Charles T. Munger	Costco Wholesale
+Charles W. Coker	Bank of America Corp.
+Charles W. Coker	Progress Energy
+Charles W. Coker	Sara Lee
+Christina A. Gold	ITT Industries
+Christina A. Gold	New York Life Insurance
+Christine Todd Whitman	Texas Instruments
+Christine Todd Whitman	United Technologies
+Christopher A. Sinclair	Foot Locker
+Christopher A. Sinclair	Mattel
+Christopher M. Connor	National City Corp.
+Christopher M. Connor	Sherwin-Williams
+Claiborne P. Deming	Entergy
+Claiborne P. Deming	Murphy Oil
+Claire W. Gargalli	Baker Hughes
+Claire W. Gargalli	Praxair
+Clarence Otis, Jr.	St. Paul Travelers
+Clarence Otis, Jr.	VF
+Clarence P. Cazalot, Jr.	Baker Hughes
+Clarence P. Cazalot, Jr.	Marathon Oil
+Claudine B. Malone	Lowes
+Claudine B. Malone	Science Applications Intl.
+Claudio González	General Electric
+Claudio González	Home Depot
+Claudio González	Kellogg
+Claudio González	Kimberly-Clark
+Colin G. Campbell	Pitney Bowes
+Colin G. Campbell	Sysco
+Conrad K. Harper	New York Life Insurance
+Conrad K. Harper	Public Service Enterprise Group
+Constance J. Horner	Pfizer
+Constance J. Horner	Prudential Financial
+Cordell Reed	Walgreen
+Cordell Reed	Washington Group International
+Craig E. Weatherup	Federated Dept. Stores
+Craig E. Weatherup	Pepsi Bottling
+Craig E. Weatherup	Starbucks
+Craig R. Barrett	Intel
+Craig R. Barrett	Qwest Communications
+Curtis J. Crawford	DuPont
+Curtis J. Crawford	ITT Industries
+Cynthia A. Montgomery	Newell Rubbermaid
+Cynthia A. Montgomery	UnumProvident
+Cyrus F. Freidheim Jr.	Allegheny Energy
+Cyrus F. Freidheim Jr.	Household International
+Dan C. Stanzione	Avaya
+Dan C. Stanzione	Quest Diagnostics
+Daniel A. Carp	Eastman Kodak
+Daniel A. Carp	Texas Instruments
+Daniel F. Akerson	American Express
+Daniel F. Akerson	Time Warner Inc.
+Daniel H. Mudd	Fannie Mae
+Daniel H. Mudd	Ryder System
+Daniel P. Amos	AFLAC
+Daniel P. Amos	Southern
+Daniel P. Burnham	First Data
+Daniel P. Burnham	FleetBoston Financial
+Daniel S. Goldin	CDW Computer Centers
+Daniel S. Goldin	Lucent Technologies
+Dave Bing	Cardinal Health
+Dave Bing	DTE Energy
+David A. Daberko	Marathon Oil
+David A. Daberko	National City Corp.
+David A. Jones	Humana
+David A. Jones	Tyson Foods
+David B. Yoffie	Charles Schwab
+David B. Yoffie	Intel
+David C. Novak	Bank One Corp.
+David C. Novak	Yum Brands
+David H. Batchelder	ConAgra Foods
+David H. Batchelder	Washington Group International
+David Hughes	Darden Restaurants
+David Hughes	Hughes Supply
+David Hughes	SunTrust Banks
+David I. Fuente	Office Depot
+David I. Fuente	Ryder System
+David J. Lesar	Halliburton
+David J. Lesar	Lyondell Chemical
+David J. Lesar	Mirant
+David K. Newbigging	Merrill Lynch
+David K. Newbigging	Paccar
+David L. Boren	AMR
+David L. Boren	ConocoPhillips
+David L. Boren	Texas Instruments
+David L. Burner	Engelhard
+David L. Burner	Progress Energy
+David M. Lawrence, MD	Agilent Technologies
+David M. Lawrence, MD	PG&E Corp.
+David M. McClanahan	CenterPoint Energy
+David M. McClanahan	CenterPoint Energy
+David M. Ratcliffe	CSX
+David M. Ratcliffe	Southern
+David N. Farr	Delphi
+David N. Farr	Emerson Electric
+David R. Goode	Caterpillar
+David R. Goode	Delta Air Lines
+David R. Goode	Georgia-Pacific
+David R. Goode	Norfolk Southern
+David R. Goode	Texas Instruments
+David R. Whitwam	PPG Industries
+David R. Whitwam	Whirlpool
+David S. Pottruck	Charles Schwab
+David S. Pottruck	Intel
+David W. Joos	CMS Energy
+David W. Joos	Steelcase
+David W. Raisbeck	Cardinal Health
+David W. Raisbeck	Eastman Chemical
+David Y. Schwartz	Foot Locker
+David Y. Schwartz	Walgreen
+Dean R. OHare	Fluor
+Dean R. OHare	H.J. Heinz
+Delano E. Lewis	Colgate-Palmolive
+Delano E. Lewis	Eastman Kodak
+Dennis E. Foster	Alltel
+Dennis E. Foster	NiSource
+Dennis F. Hightower	Gillette
+Dennis F. Hightower	Northwest Airlines
+Dennis F. Hightower	TJX
+Dennis H. Reilley	Entergy
+Dennis H. Reilley	Marathon Oil
+Dennis H. Reilley	Praxair
+Dennis W. Sullivan	KeyCorp
+Dennis W. Sullivan	Parker Hannifin
+Deval L. Patrick	Coca-Cola Enterprises
+Deval L. Patrick	Reebok International
+Dipak C. Jain	Deere
+Dipak C. Jain	UAL
+Don H. Davis, Jr.	Illinois Tool Works
+Don H. Davis, Jr.	Rockwell Automation
+Dona Davis Young	Foot Locker
+Dona Davis Young	Wachovia Corp.
+Donald B. Rice	Amgen
+Donald B. Rice	Unocal
+Donald B. Rice	Wells Fargo
+Donald B. Shackelford	Limited Brands
+Donald B. Shackelford	Progressive
+Donald F. McHenry	AT&T
+Donald F. McHenry	Coca-Cola
+Donald F. McHenry	FleetBoston Financial
+Donald F. McHenry	International Paper
+Donald G. Fisher	Charles Schwab
+Donald G. Fisher	Gap
+Donald Guinn	Bank of America Corp.
+Donald Guinn	Pacific LifeCorp
+Donald J. Carty	Dell Computer
+Donald J. Carty	Sears Roebuck
+Donald M. Carlton	American Electric Power
+Donald M. Carlton	Temple-Inland
+Donald M. James	Southern
+Donald M. James	SouthTrust Corporation
+Donald M. Roberts	Burlington Resources
+Donald M. Roberts	York International
+Donald M. Stewart	Campbell Soup
+Donald M. Stewart	New York Times
+Donald V. Fites	AK Steel Holding
+Donald V. Fites	AT&T Wireless Services
+Donald V. Fites	Exxon Mobil
+Donald V. Fites	Georgia-Pacific
+Donna E. Shalala, Ph.D.	Gannett
+Donna E. Shalala, Ph.D.	Lennar
+Donna E. Shalala, Ph.D.	UnitedHealth Group
+Dorothy A. Terrell	General Mills
+Dorothy A. Terrell	Sears Roebuck
+Dorrit J. Bern	Brunswick
+Dorrit J. Bern	Southern
+Douglas A. Warner III	Anheuser-Busch
+Douglas A. Warner III	General Electric
+Douglas A. Warner III	Motorola
+Douglas C. Yearley	Lockheed Martin
+Douglas C. Yearley	Marathon Oil
+Douglas C. Yearley	United States Steel
+Douglas H. McCorkindale	Continental Airlines
+Douglas H. McCorkindale	Gannett
+Douglas H. McCorkindale	Lockheed Martin
+Douglas N. Daft	Coca-Cola
+Douglas N. Daft	McGraw-Hill
+Douglas N. Daft	SunTrust Banks
+Douglas W. Leatherdale	UnitedHealth Group
+Douglas W. Leatherdale	Xcel Energy
+Dr. Carol A. Cartwright	FirstEnergy
+Dr. Carol A. Cartwright	KeyCorp
+Dr. Dale R. Laurance	Ingram Micro
+Dr. Dale R. Laurance	Jacobs Engineering Group
+Dr. Dale R. Laurance	Occidental Petroleum
+Dr. E. Linn Draper, Jr.	American Electric Power
+Dr. E. Linn Draper, Jr.	Sprint
+Dr. Elizabeth E. Bailey	Altria Group
+Dr. Elizabeth E. Bailey	CSX
+Dr. John A. White	Eastman Chemical
+Dr. John A. White	Motorola
+Dr. Judith Rodin	Aetna
+Dr. Judith Rodin	AMR
+Dr. Judith Rodin	Comcast
+Dr. Judith Rodin	Electronic Data Systems
+Dr. Michael J. Boskin	Exxon Mobil
+Dr. Michael J. Boskin	Oracle
+Dr. Pastora San Juan Cafferty	Kimberly-Clark
+Dr. Pastora San Juan Cafferty	Waste Management
+Dr. Ray R. Irani	Lyondell Chemical
+Dr. Ray R. Irani	Occidental Petroleum
+Dr. Walter E. Massey	Bank of America Corp.
+Dr. Walter E. Massey	McDonalds
+Dr. Walter E. Massey	Motorola
+Duane E. Collins	MeadWestvaco
+Duane E. Collins	Parker Hannifin
+Duane E. Collins	Sherwin-Williams
+Dudley C. Mecum	Citigroup
+Dudley C. Mecum	Lyondell Chemical
+Dudley S. Taft	Cinergy
+Dudley S. Taft	Fifth Third Bancorp
+Dudley S. Taft	Tribune
+E. Gordon Gee	Dollar General
+E. Gordon Gee	Limited Brands
+E. Stanley ONeal	General Motors
+E. Stanley ONeal	Merrill Lynch
+Earl D. Holton	CMS Energy
+Earl D. Holton	Steelcase
+Earl G. Graves, Sr.	Aetna
+Earl G. Graves, Sr.	AMR
+Earl G. Graves, Sr.	Federated Dept. Stores
+Earl G. Graves, Sr.	Rohm & Haas
+Edgar D. Jannotta	Aon
+Edgar D. Jannotta	Exelon
+Edith E. Holiday	Amerada Hess
+Edith E. Holiday	H.J. Heinz
+Edmund M. Carpenter	Campbell Soup
+Edmund M. Carpenter	Dana
+Eduardo R. Menascé	KeyCorp
+Eduardo R. Menascé	Pitney Bowes
+Edward A. Brennan	3M
+Edward A. Brennan	Allstate
+Edward A. Brennan	AMR
+Edward A. Brennan	Exelon
+Edward A. Brennan	McDonalds
+Edward B. Rust Jr.	Caterpillar
+Edward B. Rust Jr.	State Farm Insurance Cos
+Edward D. Miller	American Express
+Edward D. Miller	KeySpan
+Edward E. Hagenlocker	Air Products
+Edward E. Hagenlocker	American Standard
+Edward E. Hagenlocker	AmerisourceBergen
+Edward E. Hagenlocker	Boise Cascade
+Edward E. Hagenlocker	Lucent Technologies
+Edward E. Whitacre, Jr.	Anheuser-Busch
+Edward E. Whitacre, Jr.	Burlington Northern Santa Fe
+Edward E. Whitacre, Jr.	Emerson Electric
+Edward E. Whitacre, Jr.	May Dept. Stores
+Edward E. Whitacre, Jr.	SBC Communications
+Edward F. DeGraan	Becton Dickinson
+Edward F. DeGraan	Gillette
+Edward J. Kelly, III	CIT Group
+Edward J. Kelly, III	Constellation Energy
+Edward J. Kelly, III	CSX
+Edward J. Kelly, III	Hartford Fin. Services
+Edward J. Ludwig	Aetna
+Edward J. Ludwig	Becton Dickinson
+Edward J. Zore	Manpower
+Edward J. Zore	Northwestern Mutual
+Edward M. Liddy	3M
+Edward M. Liddy	Allstate
+Edward M. Liddy	Goldman Sachs Group
+Edward M. Liddy	Kroger
+Edward P. Djerejian	Baker Hughes
+Edward P. Djerejian	Occidental Petroleum
+Edward S. Lampert	AutoNation
+Edward S. Lampert	AutoZone
+Edward S. Lampert	Kmart Holding
+Edward T. Fogarty	Avon Products
+Edward T. Fogarty	Goodyear Tire & Rubber
+Edward V. Fritzky	Amgen
+Edward V. Fritzky	Jacobs Engineering Group
+Edwin B. Borden	Jefferson-Pilot
+Edwin B. Borden	Progress Energy
+Elizabeth A. Sanders	Washington Mutual
+Elizabeth A. Sanders	WellPoint Health Networks
+Elizabeth E. Tallett	Coventry Health Care
+Elizabeth E. Tallett	Principal Financial
+Elizabeth Valk Long	Jefferson-Pilot
+Elizabeth Valk Long	Steelcase
+Ellen A. Rudnick	Liberty Mutual Insurance Group
+Ellen A. Rudnick	Oxford Health Plans
+Ellen M. Hancock	Aetna
+Ellen M. Hancock	Colgate-Palmolive
+Ellen R. Marram	Eli Lilly
+Ellen R. Marram	Ford Motor
+Ellen R. Marram	New York Times
+Ellen V. Futter	American Intl. Group
+Ellen V. Futter	Bristol-Myers Squibb
+Ellen V. Futter	Consolidated Edison
+Ellen V. Futter	J.P. Morgan Chase
+Enrique Hernandez, Jr.	McDonalds
+Enrique Hernandez, Jr.	Nordstrom
+Enrique Hernandez, Jr.	Tribune
+Enrique Hernandez, Jr.	Wells Fargo
+Ernesto Zedillo	Alcoa
+Ernesto Zedillo	Procter & Gamble
+Ernesto Zedillo	Union Pacific
+Ernie Green	Eaton
+Ernie Green	Pitney Bowes
+Eugene A. Renna	Fortune Brands
+Eugene A. Renna	Ryder System
+Eugene F. Murphy	BellSouth
+Eugene F. Murphy	Lockheed Martin
+Eugene M. Freedman	Limited Brands
+Eugene M. Freedman	Pathmark Stores
+Eugene R. McGrath	Consolidated Edison
+Eugene R. McGrath	Schering-Plough
+F. Duane Ackerman	Allstate
+F. Duane Ackerman	BellSouth
+F. Warren McFarlan	Computer Sciences
+F. Warren McFarlan	Providian Financial
+Floretta Dukes McKenzie	Marriott International
+Floretta Dukes McKenzie	Pepco Holdings
+Francesca Ruiz de Luzuriaga	Boise Cascade
+Francesca Ruiz de Luzuriaga	Providian Financial
+Frank A. Bennack, Jr.	J.P. Morgan Chase
+Frank A. Bennack, Jr.	Wyeth
+Frank A. Olson	Amerada Hess
+Frank A. Olson	Becton Dickinson
+Frank C. Herringer	AT&T
+Frank C. Herringer	Charles Schwab
+Frank C. Herringer	Unocal
+Frank G. Zarb	American Intl. Group
+Frank G. Zarb	FPL Group
+Frank J. Biondi, Jr.	Amgen
+Frank J. Biondi, Jr.	Bank of New York Co.
+Frank J. Biondi, Jr.	Harrahs Entertainment
+Frank J. Borelli	Express Scripts
+Frank J. Borelli	Interpublic Group
+Frank P. Popoff	American Express
+Frank P. Popoff	Qwest Communications
+Frank P. Popoff	United Technologies
+Frank S. Royal, M.D.	Dominion Resources
+Frank S. Royal, M.D.	HCA
+Frank S. Royal, M.D.	Smithfield Foods
+Frank S. Royal, M.D.	SunTrust Banks
+Frank Savage	Lockheed Martin
+Frank Savage	Qualcomm
+Frank T. MacInnis	Emcor Group
+Frank T. MacInnis	ITT Industries
+Frank T. MacInnis	Williams Companies, Inc.
+Franklin A. Thomas	Alcoa
+Franklin A. Thomas	Citigroup
+Franklin A. Thomas	Lucent Technologies
+Franklin A. Thomas	PepsiCo
+Franklin D. Raines	Fannie Mae
+Franklin D. Raines	PepsiCo
+Franklin D. Raines	Pfizer
+Franklin D. Raines	TIAA-CREF
+Franklin D. Raines	Time Warner Inc.
+Fred H. Langhammer	Estée Lauder
+Fred H. Langhammer	Gillette
+Fred L. Turner	Baxter International
+Fred L. Turner	McDonalds
+Fred L. Turner	W.W. Grainger
+Frederic M. Poses	American Standard
+Frederic M. Poses	Centex
+Frederic M. Poses	Raytheon
+Frederic Salerno	Avnet
+Frederic Salerno	Bear Stearns
+Frederic Salerno	Consolidated Edison
+Frederic Salerno	Viacom
+Frederic V. Malek	Automatic Data Proc.
+Frederic V. Malek	Fannie Mae
+Frederic V. Malek	FPL Group
+Frederic V. Malek	Northwest Airlines
+Frederick P. Stratton, Jr.	Bank One Corp.
+Frederick P. Stratton, Jr.	Wisconsin Energy
+Frederick W. Gluck	Amgen
+Frederick W. Gluck	HCA
+G. Craig Sullivan	Clorox
+G. Craig Sullivan	Levi Strauss
+G. Craig Sullivan	Mattel
+G. Fred DiBona, Jr.	Crown Holdings
+G. Fred DiBona, Jr.	Exelon
+G. Gilmer Minor, III	Owens & Minor
+G. Gilmer Minor, III	SunTrust Banks
+G. Jackson Ratcliffe	Praxair
+G. Jackson Ratcliffe	Sunoco
+G. Kenneth Baum	H&R Block
+G. Kenneth Baum	Interstate Bakeries
+Gail D. Fosler	Baxter International
+Gail D. Fosler	Caterpillar
+Gail D. Fosler	Unisys
+Gail Deegan	EMC
+Gail Deegan	TJX
+Gail J. McGovern	DTE Energy
+Gail J. McGovern	Hartford Fin. Services
+Gail R. Wilensky, Ph.D.	Quest Diagnostics
+Gail R. Wilensky, Ph.D.	UnitedHealth Group
+Gary C. Butler	Automatic Data Proc.
+Gary C. Butler	Liberty Mutual Insurance Group
+Gary D. Forsee	Goodyear Tire & Rubber
+Gary D. Forsee	Sprint
+Gary G. Benanav	Express Scripts
+Gary G. Benanav	New York Life Insurance
+Gary G. Michael	Boise Cascade
+Gary G. Michael	Clorox
+Gary G. Michael	Harrahs Entertainment
+Gary L. Countryman	FleetBoston Financial
+Gary L. Countryman	Liberty Mutual Insurance Group
+Gary L. Countryman	Neiman Marcus
+Gary L. Roubos	Dover
+Gary L. Roubos	Omnicom Group
+Gary L. Tooker	Avnet
+Gary L. Tooker	Eaton
+Gary Wilson	Northwest Airlines
+Gary Wilson	Walt Disney
+Gen. John T. Chain, Jr.	ConAgra Foods
+Gen. John T. Chain, Jr.	Northrop Grumman
+George A. Davidson, Jr.	Dominion Resources
+George A. Davidson, Jr.	Goodrich
+George A. Davidson, Jr.	PNC Financial Svcs. Group
+George A. Lorch	Autoliv
+George A. Lorch	Household International
+George A. Lorch	Pfizer
+George A. Lorch	Williams Companies, Inc.
+George A. Schaefer, Jr.	Anthem
+George A. Schaefer, Jr.	Ashland
+George A. Schaefer, Jr.	Fifth Third Bancorp
+George D. Johnson, Jr.	Duke Energy
+George D. Johnson, Jr.	Norfolk Southern
+George David	Citigroup
+George David	United Technologies
+George H. Conrades	Cardinal Health
+George H. Conrades	Harley-Davidson
+George J. Mitchell	FedEx
+George J. Mitchell	Staples
+George J. Mitchell	Starwood Hotels & Restaurants
+George J. Mitchell	Walt Disney
+George L. Miles, Jr.	Harley-Davidson
+George L. Miles, Jr.	Wesco International
+George M.C. Fisher	Delta Air Lines
+George M.C. Fisher	Eli Lilly
+George M.C. Fisher	General Motors
+George R. Roberts	Owens-Illinois
+George R. Roberts	Safeway
+Gerald Greenwald	Aetna
+Gerald Greenwald	Calpine
+Gerald Grinstein	Delta Air Lines
+Gerald Grinstein	Paccar
+Gerald Grinstein	Pittston
+Gerald L. Shaheen	Aquila
+Gerald L. Shaheen	National City Corp.
+Gilbert S. Omenn	Amgen
+Gilbert S. Omenn	Rohm & Haas
+Glen H. Hiner	Dana
+Glen H. Hiner	Prudential Financial
+Glenda A. Hatchett	Gap
+Glenda A. Hatchett	HCA
+Glenn F. Tilton	Lincoln National
+Glenn F. Tilton	UAL
+Gordon Gund	Corning
+Gordon Gund	Kellogg
+Gordon M. Bethune	Continental Airlines
+Gordon M. Bethune	Honeywell Intl.
+Gordon M. Sprenger	Medtronic
+Gordon M. Sprenger	St. Paul Travelers
+Gordon R. Lohman	Ameren
+Gordon R. Lohman	Fortune Brands
+Gordon R. Parker	Caterpillar
+Gordon R. Parker	Phelps Dodge
+Gregory Brenneman	Automatic Data Proc.
+Gregory Brenneman	Home Depot
+Gregory P. Josefowicz	Borders Group
+Gregory P. Josefowicz	Spartan Stores
+Gwendolyn S. King	Countrywide Financial
+Gwendolyn S. King	Lockheed Martin
+Gwendolyn S. King	Marsh & McLennan
+H. Jesse Arnelle	Armstrong Holdings
+H. Jesse Arnelle	Eastman Chemical
+H. Jesse Arnelle	FPL Group
+H. Jesse Arnelle	Gannett
+H. Jesse Arnelle	Textron
+H. John Riley, Jr.	Allstate
+H. John Riley, Jr.	Baker Hughes
+H. Laurance Fuller	Abbott Laboratories
+H. Laurance Fuller	J.P. Morgan Chase
+H. Laurance Fuller	Motorola
+H. Patrick Swygert	Fannie Mae
+H. Patrick Swygert	Hartford Fin. Services
+H. Patrick Swygert	United Technologies
+Hall Adams, Jr.	McDonalds
+Hall Adams, Jr.	Sears Roebuck
+Hans W. Becherer	Honeywell Intl.
+Hans W. Becherer	J.P. Morgan Chase
+Hans W. Becherer	Schering-Plough
+Hansel E. Tookes II	Corning
+Hansel E. Tookes II	Ryder System
+Harold A. Wagner	Cigna
+Harold A. Wagner	Paccar
+Harold A. Wagner	United Technologies
+Harold B. Smith	Illinois Tool Works
+Harold B. Smith	Northwestern Mutual
+Harold B. Smith	W.W. Grainger
+Harold McGraw, III	McGraw-Hill
+Harold McGraw, III	United Technologies
+Harold T. Shapiro	Dow Chemical
+Harold T. Shapiro	HCA
+Harry C. Stonecipher	Boeing
+Harry C. Stonecipher	Paccar
+Harry M. Jansen Kraemer Jr.	Baxter International
+Harry M. Jansen Kraemer Jr.	Science Applications Intl.
+Harry P. Kamen	MetLife
+Harry P. Kamen	Pfizer
+Hector R. Ortino	New York Life Insurance
+Hector R. Ortino	Parker Hannifin
+Heidi G. Miller	General Mills
+Heidi G. Miller	Merck
+Helene L. Kaplan	Exxon Mobil
+Helene L. Kaplan	J.P. Morgan Chase
+Helene L. Kaplan	May Dept. Stores
+Helene L. Kaplan	MetLife
+Henry A. McKinnell, Jr.	Exxon Mobil
+Henry A. McKinnell, Jr.	Pfizer
+Henry B. Schacht	Alcoa
+Henry B. Schacht	Johnson & Johnson
+Henry B. Schacht	Lucent Technologies
+Henry B. Schacht	New York Times
+Henry Kaufman	Freddie Mac
+Henry Kaufman	Lehman Brothers Hldgs.
+Henry L. Meyer III	Continental Airlines
+Henry L. Meyer III	KeyCorp
+Herbert M. Baum	Fleming
+Herbert M. Baum	PepsiAmericas
+Howard G. Buffett	Berkshire Hathaway
+Howard G. Buffett	Coca-Cola Enterprises
+Howard G. Buffett	ConAgra Foods
+Howard P. Behar	Gap
+Howard P. Behar	Starbucks
+Hugh B. Price	MetLife
+Hugh B. Price	Sears Roebuck
+Hugh B. Price	Verizon Communications
+Indra K. Nooyi	Motorola
+Indra K. Nooyi	PepsiCo
+Irvine O. Hockaday, Jr.	Aquila
+Irvine O. Hockaday, Jr.	Estée Lauder
+Irvine O. Hockaday, Jr.	Ford Motor
+Irvine O. Hockaday, Jr.	Sprint
+Ivan G. Seidenberg	Honeywell Intl.
+Ivan G. Seidenberg	Verizon Communications
+Ivan G. Seidenberg	Viacom
+Ivan G. Seidenberg	Wyeth
+Ivor J. Evans	Textron
+Ivor J. Evans	Union Pacific
+J. Carter Bacot	Foot Locker
+J. Carter Bacot	NVR
+J. Christopher Reyes	Allstate
+J. Christopher Reyes	Fortune Brands
+J. David Grissom	Providian Financial
+J. David Grissom	Yum Brands
+J. Dudley Fishburn	Altria Group
+J. Dudley Fishburn	Household International
+J. Gary Cooper	PNC Financial Svcs. Group
+J. Gary Cooper	United States Steel
+J. Hicks Lanier	Genuine Parts
+J. Hicks Lanier	SunTrust Banks
+J. Hyatt Brown	BellSouth
+J. Hyatt Brown	FPL Group
+J. Hyatt Brown	SunTrust Banks
+J. Larry Nichols	Baker Hughes
+J. Larry Nichols	Devon Energy
+J. Lawrence Wilson	AmerisourceBergen
+J. Lawrence Wilson	Cummins
+J. Lawrence Wilson	MeadWestvaco
+J. Michael Cook	Comcast
+J. Michael Cook	Dow Chemical
+J. Michael Cook	Northrop Grumman
+J. Michael Losh	Aon
+J. Michael Losh	Cardinal Health
+J. Paul Reason	Norfolk Southern
+J. Paul Reason	Wal-Mart Stores
+J. Pedro Reinhard	Coca-Cola
+J. Pedro Reinhard	Dow Chemical
+J. Robert Kerrey	Jones Apparel Group
+J. Robert Kerrey	Tenet Healthcare
+J. Steven Whisler	Burlington Northern Santa Fe
+J. Steven Whisler	Phelps Dodge
+J. Terrence Lanni	KB Home
+J. Terrence Lanni	MGM Mirage
+J. Thomas Bouchard	Health Net
+J. Thomas Bouchard	Manpower
+J.C. Watts, Jr.	Burlington Northern Santa Fe
+J.C. Watts, Jr.	Clear Channel Communications
+J.C. Watts, Jr.	Dillards
+J.R. Hyde, III	AutoZone
+J.R. Hyde, III	FedEx
+J.T. Battenberg III	Delphi
+J.T. Battenberg III	Sara Lee
+Jack M. Greenberg	Abbott Laboratories
+Jack M. Greenberg	Allstate
+Jack M. Greenberg	First Data
+Jack M. Greenberg	Manpower
+Jackie M. Ward	Anthem
+Jackie M. Ward	Bank of America Corp.
+Jackie M. Ward	Sanmina-SCI
+Jackie M. Ward	Sysco
+James A. Henderson	International Paper
+James A. Henderson	Rohm & Haas
+James A. Henderson	SBC Communications
+James A. Johnson	Gannett
+James A. Johnson	Goldman Sachs Group
+James A. Johnson	KB Home
+James A. Johnson	Target
+James A. Johnson	Temple-Inland
+James A. Johnson	UnitedHealth Group
+James A. Stern	Lear
+James A. Stern	Wesco International
+James B. Williams	Coca-Cola
+James B. Williams	Genuine Parts
+James B. Williams	Georgia-Pacific
+James B. Williams	SunTrust Banks
+James C. Boland	Goodyear Tire & Rubber
+James C. Boland	Sherwin-Williams
+James C. Morgan	Applied Materials
+James C. Morgan	Cisco Systems
+James D. Ericson	Kohls
+James D. Ericson	Northwestern Mutual
+James D. Robinson III	Bristol-Myers Squibb
+James D. Robinson III	Coca-Cola
+James D. Robinson III	First Data
+James Dimon	Bank One Corp.
+James Dimon	Yum Brands
+James E. Preston	Aramark
+James E. Preston	Foot Locker
+James E. Rogers	Cinergy
+James E. Rogers	Fifth Third Bancorp
+James E. Rogers	Owens & Minor
+James F. Cordes	Comerica
+James F. Cordes	Northeast Utilities
+James F. Hardymon	Air Products
+James F. Hardymon	American Standard
+James F. Hardymon	Circuit City Stores
+James F. Hardymon	Lexmark International
+James F. McDonald	Burlington Resources
+James F. McDonald	Mirant
+James G. Berges	Emerson Electric
+James G. Berges	PPG Industries
+James G. Brocksmith, Jr.	Nationwide
+James G. Brocksmith, Jr.	Sempra Energy
+James G. Cullen	Agilent Technologies
+James G. Cullen	Johnson & Johnson
+James G. Cullen	Prudential Financial
+James G. Kaiser	MeadWestvaco
+James G. Kaiser	Sunoco
+James G. Martin	Duke Energy
+James G. Martin	Family Dollar Stores
+James H. Greene, JR.	Owens-Illinois
+James H. Greene, JR.	Safeway
+James H. Keyes	Johnson Controls
+James H. Keyes	Navistar International
+James H. Keyes	Pitney Bowes
+James I. Cash Jr., Ph.D.	General Electric
+James I. Cash Jr., Ph.D.	Microsoft
+James J. Duderstadt	CMS Energy
+James J. Duderstadt	Unisys
+James J. Howard	Ecolab
+James J. Howard	Honeywell Intl.
+James J. Howard	Walgreen
+James J. OConnor	Smurfit-Stone Container
+James J. OConnor	UAL
+James L. Barksdale	FedEx
+James L. Barksdale	Sun Microsystems
+James L. Barksdale	Time Warner Inc.
+James L. Broadhead	New York Life Insurance
+James L. Broadhead	Pittston
+James L. Dunlap	El Paso
+James L. Dunlap	Mass. Mutual Life Ins.
+James Lawrence	Avnet
+James Lawrence	St. Paul Travelers
+James M. Cornelius	Chubb
+James M. Cornelius	Guidant
+James M. Kilts	Delta Air Lines
+James M. Kilts	Gillette
+James M. Kilts	May Dept. Stores
+James M. Kilts	Whirlpool
+James M. Ringler	Autoliv
+James M. Ringler	Dow Chemical
+James M. Ringler	NCR
+James M. Zimmerman	Chubb
+James M. Zimmerman	Goodyear Tire & Rubber
+James M. Zimmerman	H.J. Heinz
+James Marley	Armstrong Holdings
+James Marley	ArvinMeritor
+James P. Hackett	Fifth Third Bancorp
+James P. Hackett	Northwestern Mutual
+James P. Hackett	Steelcase
+James P. Kelly	BellSouth
+James P. Kelly	Dana
+James P. Kelly	United Parcel Service
+James Perrella	ArvinMeritor
+James Perrella	Becton Dickinson
+James R. Barker	Pittston
+James R. Barker	Verizon Communications
+James R. Cantalupo	Illinois Tool Works
+James R. Cantalupo	McDonalds
+James R. Cantalupo	Sears Roebuck
+James R. Donnelley	R.R. Donnelley & Sons
+James R. Donnelley	Sierra Pacific Resources
+James R. Houghton	Corning
+James R. Houghton	Exxon Mobil
+James R. Houghton	MetLife
+James R. Jones	Anheuser-Busch
+James R. Jones	KeySpan
+James R. Mellor	AmerisourceBergen
+James R. Mellor	Computer Sciences
+James R. Ukropina	Lockheed Martin
+James R. Ukropina	Pacific LifeCorp
+James S. Balloun	Georgia-Pacific
+James S. Balloun	Wachovia Corp.
+James S. Crown	Bank One Corp.
+James S. Crown	General Dynamics
+James S. Crown	Sara Lee
+James T. Hackett	Fluor
+James T. Hackett	Temple-Inland
+James V. Napier	Engelhard
+James V. Napier	McKesson
+James W. Crownover	Allied Waste Industries
+James W. Crownover	Unocal
+Jan Leschly	American Express
+Jan Leschly	Viacom
+Jane C. Pfeiffer	Ashland
+Jane C. Pfeiffer	International Paper
+Jane C. Pfeiffer	J.C. Penney
+Jane E. Shaw	Boise Cascade
+Jane E. Shaw	Intel
+Jane E. Shaw	McKesson
+Janice D. Stoney	Whirlpool
+Janice D. Stoney	Williams Companies, Inc.
+Jarobin Gilbert Jr.	Foot Locker
+Jarobin Gilbert Jr.	PepsiAmericas
+Jay L. Johnson	General Dynamics
+Jay L. Johnson	USAA
+Jeanne P. Jackson	McDonalds
+Jeanne P. Jackson	Nike
+Jeanne P. Jackson	Nordstrom
+Jeff M. Fettig	Dow Chemical
+Jeff M. Fettig	Whirlpool
+Jeffrey A. Joerres	Johnson Controls
+Jeffrey A. Joerres	Manpower
+Jeffrey E. Garten	Aetna
+Jeffrey E. Garten	Calpine
+Jeffrey L. Bleustein	Brunswick
+Jeffrey L. Bleustein	Harley-Davidson
+Jeffrey M. Heller	Electronic Data Systems
+Jeffrey M. Heller	Mutual of Omaha Insurance
+Jeffrey M. Peek	CIT Group
+Jeffrey M. Peek	St. Paul Travelers
+Jenne K. Britell	Crown Holdings
+Jenne K. Britell	Lincoln National
+Jerry A. Grundhofer	Ecolab
+Jerry A. Grundhofer	U.S. Bancorp
+Jerry D. Choate	Amgen
+Jerry D. Choate	Valero Energy
+Jerry W. Levin	Ecolab
+Jerry W. Levin	U.S. Bancorp
+Jill K. Conway	Colgate-Palmolive
+Jill K. Conway	Merrill Lynch
+Jill K. Conway	Nike
+Jill S. Ruckelshaus	Costco Wholesale
+Jill S. Ruckelshaus	Lincoln National
+Joan D. Manley	R.R. Donnelley & Sons
+Joan D. Manley	Sara Lee
+Joan E. Spero	Delta Air Lines
+Joan E. Spero	First Data
+Joe B. Wyatt	El Paso
+Joe B. Wyatt	Ingram Micro
+Joe T. Ford	Alltel
+Joe T. Ford	Textron
+Joel J. Cohen	Borders Group
+Joel J. Cohen	Chubb
+Joel W. Johnson	Ecolab
+Joel W. Johnson	Hormel Foods
+Joel W. Johnson	U.S. Bancorp
+John (Jack) C. Pope	CNF
+John (Jack) C. Pope	Federal-Mogul
+John (Jack) C. Pope	R.R. Donnelley & Sons
+John (Jack) C. Pope	Waste Management
+John A. Edwardson	CDW Computer Centers
+John A. Edwardson	FedEx
+John A. Edwardson	Household International
+John A. Luke, Jr.	Bank of New York Co.
+John A. Luke, Jr.	MeadWestvaco
+John A. Young	ChevronTexaco
+John A. Young	Lucent Technologies
+John B. McCoy	Cardinal Health
+John B. McCoy	Freddie Mac
+John B. McCoy	SBC Communications
+John B. Schwemm	USG
+John B. Schwemm	Walgreen
+John Brooks Slaughter	Intl. Business Machines
+John Brooks Slaughter	Northrop Grumman
+John C. Danforth	Dow Chemical
+John C. Danforth	MetLife
+John C. Malone	Bank of New York Co.
+John C. Malone	InterActiveCorp
+John D. Baker, II	Hughes Supply
+John D. Baker, II	Wachovia Corp.
+John D. Macomber	Lehman Brothers Hldgs.
+John D. Macomber	Textron
+John D. Opie	Delphi
+John D. Opie	Wal-Mart Stores
+John D. Zeglis	AT&T Wireless Services
+John D. Zeglis	Georgia-Pacific
+John E. Bryson	Boeing
+John E. Bryson	Edison International
+John E. Bryson	Walt Disney
+John E. Jacob	Anheuser-Busch
+John E. Jacob	Coca-Cola Enterprises
+John E. Jacob	Morgan Stanley
+John E. Pepper, Jr.	Motorola
+John E. Pepper, Jr.	Procter & Gamble
+John E. Pepper, Jr.	Xerox
+John F. Akers	Lehman Brothers Hldgs.
+John F. Akers	New York Times
+John F. Akers	PepsiCo
+John F. Bergstrom	Kimberly-Clark
+John F. Bergstrom	Wisconsin Energy
+John F. Smith, Jr.	Delta Air Lines
+John F. Smith, Jr.	Procter & Gamble
+John G. Breen	Goodyear Tire & Rubber
+John G. Breen	MeadWestvaco
+John G. Breen	Parker Hannifin
+John G. Breen	Sherwin-Williams
+John G. Drosdick	Lincoln National
+John G. Drosdick	Sunoco
+John G. Drosdick	United States Steel
+John G. Turner	Hormel Foods
+John G. Turner	ShopKo Stores
+John H. Bryan	Bank One Corp.
+John H. Bryan	General Motors
+John H. Bryan	Goldman Sachs Group
+John H. Dasburg	St. Paul Travelers
+John H. Dasburg	Winn-Dixie Stores
+John H. McArthur	AES
+John H. McArthur	HCA
+John H. McArthur	Rohm & Haas
+John J. Phelan, Jr.	Merrill Lynch
+John J. Phelan, Jr.	MetLife
+John J. Schiff Jr.	Cinergy
+John J. Schiff Jr.	Fifth Third Bancorp
+John J. Stollenwerk	Northwestern Mutual
+John J. Stollenwerk	U.S. Bancorp
+John L. Clendenin	Coca-Cola Enterprises
+John L. Clendenin	Home Depot
+John L. Clendenin	Kroger
+John L. Thornton	Ford Motor
+John L. Thornton	Intel
+John M. Deutch	Citigroup
+John M. Deutch	Cummins
+John M. Deutch	Raytheon
+John M. Roth	Advance Auto Parts
+John M. Roth	Asbury Automotive Group
+John R. Belk	Alltel
+John R. Belk	Bank of America Corp.
+John R. Block	Deere
+John R. Block	Hormel Foods
+John R. Hall	Bank One Corp.
+John R. Hall	Humana
+John R. Stafford	Honeywell Intl.
+John R. Stafford	J.P. Morgan Chase
+John R. Stafford	Verizon Communications
+John R. Walter	Abbott Laboratories
+John R. Walter	Deere
+John R. Walter	Manpower
+John T. Dillon	Caterpillar
+John T. Dillon	Kellogg
+John T. LaMacchia	Burlington Resources
+John T. LaMacchia	Kroger
+John T. Schwieters	Danaher
+John T. Schwieters	Smithfield Foods
+John W. Brown	National City Corp.
+John W. Brown	Stryker
+John W. Conway	Crown Holdings
+John W. Conway	PPL
+John W. Madigan	AT&T Wireless Services
+John W. Madigan	Morgan Stanley
+John W. Rogers, Jr.	Aon
+John W. Rogers, Jr.	Bank One Corp.
+John W. Rogers, Jr.	Exelon
+John W. Rogers, Jr.	McDonalds
+John W. Rowe	Aetna
+John W. Rowe	Exelon
+John W. Rowe	Sunoco
+John W. Rowe	UnumProvident
+John W. Thompson	NiSource
+John W. Thompson	United Parcel Service
+Jon A. Boscia	Hershey Foods
+Jon A. Boscia	Lincoln National
+Jon C. Madonna	Albertsons
+Jon C. Madonna	AT&T
+Jon C. Madonna	Phelps Dodge
+Joseph A. Califano, Jr.	Automatic Data Proc.
+Joseph A. Califano, Jr.	Viacom
+Joseph A. Pichler	Federated Dept. Stores
+Joseph A. Pichler	Kroger
+Joseph Brown	Oxford Health Plans
+Joseph Brown	Safeco
+Joseph Neubauer	Aramark
+Joseph Neubauer	Cigna
+Joseph Neubauer	Federated Dept. Stores
+Joseph Neubauer	Verizon Communications
+Joseph Neubauer	Wachovia Corp.
+Joseph T. Gorman	Alcoa
+Joseph T. Gorman	National City Corp.
+Joseph T. Gorman	Procter & Gamble
+Joshua I. Smith	Allstate
+Joshua I. Smith	Caterpillar
+Joshua I. Smith	FedEx
+Joyce M. Roché	Anheuser-Busch
+Joyce M. Roché	May Dept. Stores
+Joyce M. Roché	SBC Communications
+Judith A. McHale	Host Marriott
+Judith A. McHale	John Hancock Financial Services
+Judith A. McHale	Pepco Holdings
+Judith A. Sprieser	Allstate
+Judith A. Sprieser	Kohls
+Judith A. Sprieser	USG
+Judith L. Estrin	FedEx
+Judith L. Estrin	Walt Disney
+Judith M. Runstad	Safeco
+Judith M. Runstad	Wells Fargo
+Judith Richards Hope	General Mills
+Judith Richards Hope	Union Pacific
+Judy C. Lewent	Dell Computer
+Judy C. Lewent	Motorola
+Karen Hastie Williams	Chubb
+Karen Hastie Williams	Continental Airlines
+Karen Hastie Williams	Gannett
+Karen Hastie Williams	SunTrust Banks
+Karl J. Krapek	Lucent Technologies
+Karl J. Krapek	Prudential Financial
+Karl J. Krapek	Visteon
+Karl M. von der Heyden	Aramark
+Karl M. von der Heyden	Federated Dept. Stores
+Kathleen F. Feldstein, PhD	Bank of America Corp.
+Kathleen F. Feldstein, PhD	BellSouth
+Kathryn C. Turner	ConocoPhillips
+Kathryn C. Turner	Schering-Plough
+Kathryn C. Turner	Tribune
+Kathryn D. Wriston	Goodyear Tire & Rubber
+Kathryn D. Wriston	Northwestern Mutual
+Kenneth D. Lewis	Bank of America Corp.
+Kenneth D. Lewis	Lowes
+Kenneth E. Stinson	ConAgra Foods
+Kenneth E. Stinson	Peter Kiewit Sons
+Kenneth G. Langone	General Electric
+Kenneth G. Langone	Home Depot
+Kenneth G. Langone	Yum Brands
+Kenneth I. Chenault	American Express
+Kenneth I. Chenault	Intl. Business Machines
+Kenneth Jastrow	KB Home
+Kenneth Jastrow	Temple-Inland
+Kenneth L. Way	CMS Energy
+Kenneth L. Way	Lear
+Kenneth L. Way	Wesco International
+Kenneth M. Duberstein	Boeing
+Kenneth M. Duberstein	ConocoPhillips
+Kenneth M. Duberstein	Fannie Mae
+Kenneth M. Duberstein	Fleming
+Kenneth M. Duberstein	St. Paul Travelers
+Kenneth T. Derr	AT&T
+Kenneth T. Derr	Calpine
+Kenneth T. Derr	Citigroup
+Kenneth T. Derr	Halliburton
+Kent B. Foster	Campbell Soup
+Kent B. Foster	Ingram Micro
+Kent B. Foster	J.C. Penney
+Kent B. Foster	New York Life Insurance
+Kent Kresa	Avery Dennison
+Kent Kresa	Fluor
+Kent Kresa	General Motors
+Kerry K. Killinger	Safeco
+Kerry K. Killinger	Washington Mutual
+Kevin W. Sharer	3M
+Kevin W. Sharer	Amgen
+Kevin W. Sharer	Northrop Grumman
+Kevin W. Sharer	Unocal
+Kim B. Clark	Black & Decker
+Kim B. Clark	FleetBoston Financial
+Kirbyjon H. Caldwell	Continental Airlines
+Kirbyjon H. Caldwell	Reliant Resources
+L. John Doerr	Amazon.Com
+L. John Doerr	Sun Microsystems
+L. Phillip Humann	Coca-Cola Enterprises
+L. Phillip Humann	SunTrust Banks
+Landon Hilliard	Norfolk Southern
+Landon Hilliard	Owens Corning
+Larry L. Prince	Genuine Parts
+Larry L. Prince	SunTrust Banks
+Larry W. McCurdy	American Axle & Mfg.
+Larry W. McCurdy	Lear
+Larry W. McCurdy	Mohawk Industries
+Laura DAndrea Tyson	Eastman Kodak
+Laura DAndrea Tyson	Morgan Stanley
+Laura DAndrea Tyson	SBC Communications
+Lawrence A. Bossidy	J.P. Morgan Chase
+Lawrence A. Bossidy	Merck
+Lawrence A. Weinbach	Avon Products
+Lawrence A. Weinbach	Unisys
+Lawrence M. Small	Chubb
+Lawrence M. Small	Marriott International
+Lawrence T. Babbio	Aramark
+Lawrence T. Babbio	Hewlett-Packard
+Lawrence V. Jackson	Allied Waste Industries
+Lawrence V. Jackson	RadioShack
+Lawrence W. Kellner	Continental Airlines
+Lawrence W. Kellner	Marriott International
+Lee R. Raymond	Exxon Mobil
+Lee R. Raymond	J.P. Morgan Chase
+Leo Benatar	Interstate Bakeries
+Leo Benatar	Mohawk Industries
+Leo F. Mullin	BellSouth
+Leo F. Mullin	Delta Air Lines
+Leo F. Mullin	Johnson & Johnson
+Leonard D. Schaeffer	Amgen
+Leonard D. Schaeffer	WellPoint Health Networks
+Leonard H. Roberts	J.C. Penney
+Leonard H. Roberts	RadioShack
+Leonard L. Berry	Darden Restaurants
+Leonard L. Berry	Lowes
+Leonard S. Coleman, Jr.	Aramark
+Leonard S. Coleman, Jr.	Cendant
+Leonard S. Coleman, Jr.	H.J. Heinz
+Leonard S. Coleman, Jr.	Omnicom Group
+Leonard S. Coleman, Jr.	Owens Corning
+Leslie S. Biller	Ecolab
+Leslie S. Biller	PG&E Corp.
+Lester Crown	General Dynamics
+Lester Crown	Maytag
+Lewis B. Campbell	Bristol-Myers Squibb
+Lewis B. Campbell	Textron
+Lewis Hay III	Capital One Financial
+Lewis Hay III	FPL Group
+Lillian Bauder	Comerica
+Lillian Bauder	DTE Energy
+Linda Fayne Levinson	Jacobs Engineering Group
+Linda Fayne Levinson	NCR
+Linda G. Alvarado	3M
+Linda G. Alvarado	Lennox International
+Linda G. Alvarado	Pepsi Bottling
+Linda G. Alvarado	Pitney Bowes
+Linda G. Alvarado	Qwest Communications
+Linda Gillespie Stuntz	American Electric Power
+Linda Gillespie Stuntz	Raytheon
+Linda Johnson Rice	Kimberly-Clark
+Linda Johnson Rice	Omnicom Group
+Linda Koch Lorimer	McGraw-Hill
+Linda Koch Lorimer	Sprint
+Lloyd Vincent Hackley	BB&T Corp.
+Lloyd Vincent Hackley	Tyson Foods
+Lord Charles D. Powell	Caterpillar
+Lord Charles D. Powell	Textron
+Louis W. Smith	H&R Block
+Louis W. Smith	Sprint
+Louis W. Sullivan, M.D.	3M
+Louis W. Sullivan, M.D.	Bristol-Myers Squibb
+Louis W. Sullivan, M.D.	Cigna
+Louis W. Sullivan, M.D.	Georgia-Pacific
+Lucio A. Noto	Altria Group
+Lucio A. Noto	Intl. Business Machines
+Lucio A. Noto	United Auto Group
+Luis G. Nogales	Edison International
+Luis G. Nogales	KB Home
+Luke R. Corbett	Kerr-McGee
+Luke R. Corbett	OGE Energy
+Lynn M. Martin	Constellation Energy
+Lynn M. Martin	Procter & Gamble
+Lynn M. Martin	Ryder System
+Lynn M. Martin	SBC Communications
+M. Anthony Burns	Black & Decker
+M. Anthony Burns	J.C. Penney
+M. Anthony Burns	J.P. Morgan Chase
+M. Anthony Burns	Pfizer
+M. Douglas Ivester	Georgia-Pacific
+M. Douglas Ivester	SunTrust Banks
+M. Michelle Burns	Cisco Systems
+M. Michelle Burns	Wal-Mart Stores
+Mackey J. McDonald	Hershey Foods
+Mackey J. McDonald	VF
+Mackey J. McDonald	Wachovia Corp.
+Manuel A. Fernandez	Black & Decker
+Manuel A. Fernandez	Brunswick
+Marc J. Shapiro	Burlington Northern Santa Fe
+Marc J. Shapiro	Kimberly-Clark
+Marc Racicot	Burlington Northern Santa Fe
+Marc Racicot	Mass. Mutual Life Ins.
+Margaret C. Whitman	Gap
+Margaret C. Whitman	Procter & Gamble
+Maria Elena Lagomasino	Avon Products
+Maria Elena Lagomasino	Coca-Cola
+Marian L. Heard	CVS
+Marian L. Heard	FleetBoston Financial
+Marian L. Heard	Liberty Mutual Insurance Group
+Marie L. Knowles	McKesson
+Marie L. Knowles	Phelps Dodge
+Marie-Josée Kravis	Ford Motor
+Marie-Josée Kravis	InterActiveCorp
+Marilyn Ware	Cigna
+Marilyn Ware	Ikon Office Solutions
+Marina v.N. Whitman	Procter & Gamble
+Marina v.N. Whitman	Unocal
+Mark P. Frissora	NCR
+Mark P. Frissora	Tenneco Automotive
+Marna C. Whittington	Federated Dept. Stores
+Marna C. Whittington	Rohm & Haas
+Marsha J. Evans	AutoZone
+Marsha J. Evans	May Dept. Stores
+Marshall A. Cohen	American Intl. Group
+Marshall A. Cohen	Collins & Aikman
+Marshall A. Cohen	Premcor
+Martha R. Ingram	AmSouth Bancorp.
+Martha R. Ingram	Ingram Micro
+Martha R. Ingram	Weyerhaeuser
+Martin S. Feldstein, Ph.D.	American Intl. Group
+Martin S. Feldstein, Ph.D.	Eli Lilly
+Martin S. Feldstein, Ph.D.	HCA
+Martin Walker	ArvinMeritor
+Martin Walker	Goodyear Tire & Rubber
+Martin Walker	Lexmark International
+Martin Walker	Textron
+Mary S. Metz	PG&E Corp.
+Mary S. Metz	SBC Communications
+Mathis Cabiallavetta	Altria Group
+Mathis Cabiallavetta	Marsh & McLennan
+Mayo A. Shattuck III	Capital One Financial
+Mayo A. Shattuck III	Constellation Energy
+Mayo A. Shattuck III	Gap
+Michael A. Miles	Allstate
+Michael A. Miles	AMR
+Michael A. Miles	Dell Computer
+Michael A. Miles	Morgan Stanley
+Michael A. Miles	Sears Roebuck
+Michael A. Miles	Time Warner Inc.
+Michael B. Yanney	Burlington Northern Santa Fe
+Michael B. Yanney	Level 3 Communications
+Michael C. Ruettgers	EMC
+Michael C. Ruettgers	Raytheon
+Michael D. OHalleran	Aon
+Michael D. OHalleran	Cardinal Health
+Michael D. Rose	Darden Restaurants
+Michael D. Rose	General Mills
+Michael E. Gellert	Devon Energy
+Michael E. Gellert	Humana
+Michael E. Shannon	CenterPoint Energy
+Michael E. Shannon	Clorox
+Michael F. Johnston	Visteon
+Michael F. Johnston	Whirlpool
+Michael H. Armacost	AFLAC
+Michael H. Armacost	Applied Materials
+Michael H. Jordan	Aetna
+Michael H. Jordan	Electronic Data Systems
+Michael H. Thaman	FPL Group
+Michael H. Thaman	Owens Corning
+Michael I. Roth	Interpublic Group
+Michael I. Roth	Pitney Bowes
+Michael J. Critelli	Eaton
+Michael J. Critelli	Pitney Bowes
+Michael J. Del Giudice	Barnes & Noble
+Michael J. Del Giudice	Consolidated Edison
+Michael J. Ward	Ashland
+Michael J. Ward	CSX
+Michael L. Eskew	3M
+Michael L. Eskew	United Parcel Service
+Michael R. Cannon	Maxtor
+Michael R. Cannon	Solectron
+Michael S. Gross	Allied Waste Industries
+Michael S. Gross	Saks
+Michael W. Wright	Honeywell Intl.
+Michael W. Wright	Wells Fargo
+Michele J. Hooper	PPG Industries
+Michele J. Hooper	Target
+Miles L. Marsh	Morgan Stanley
+Miles L. Marsh	Whirlpool
+Milton Carroll	CenterPoint Energy
+Milton Carroll	Devon Energy
+Mogens C. Bay	ConAgra Foods
+Mogens C. Bay	Level 3 Communications
+Mogens C. Bay	Peter Kiewit Sons
+Mónica C. Lozano	Tenet Healthcare
+Mónica C. Lozano	Walt Disney
+Monroe E. Trout, M.D.	Baxter International
+Monroe E. Trout, M.D.	Science Applications Intl.
+Nancy Karch	Gillette
+Nancy Karch	Liz Claiborne
+Nancy Karch	Toys R Us
+Nancy-Ann DeParle	Guidant
+Nancy-Ann DeParle	Triad Hospitals
+Nolan D. Archibald	Black & Decker
+Nolan D. Archibald	Brunswick
+Nolan D. Archibald	Lockheed Martin
+Norman H. Wesley	Fortune Brands
+Norman H. Wesley	R.R. Donnelley & Sons
+Norman R. Augustine	Black & Decker
+Norman R. Augustine	ConocoPhillips
+Norman R. Augustine	Lockheed Martin
+Norman R. Augustine	Procter & Gamble
+Norman S. Matthews	Progressive
+Norman S. Matthews	Sunoco
+Oliver R. Sockwell	Liz Claiborne
+Oliver R. Sockwell	R.R. Donnelley & Sons
+Patricia Barron	Aramark
+Patricia Barron	USAA
+Patricia F. Russo	Lucent Technologies
+Patricia F. Russo	Schering-Plough
+Patrick F. Noonan	Ashland
+Patrick F. Noonan	International Paper
+Patrick G. Ryan	Aon
+Patrick G. Ryan	Tribune
+Patrick J. Moore	Archer Daniels Midland
+Patrick J. Moore	Smurfit-Stone Container
+Patrick T. Stokes	Anheuser-Busch
+Patrick T. Stokes	U.S. Bancorp
+Patty Stonesifer	Amazon.Com
+Patty Stonesifer	Viacom
+Paul E. Tierney, Jr.	Liz Claiborne
+Paul E. Tierney, Jr.	UAL
+Paul Fulton	Bank of America Corp.
+Paul Fulton	Lowes
+Paul G. Stern	Dow Chemical
+Paul G. Stern	Whirlpool
+Paul J. Powers	FirstEnergy
+Paul J. Powers	York International
+Paul M. Anderson	Duke Energy
+Paul M. Anderson	Fluor
+Paul M. Anderson	Temple-Inland
+Paul R. Charron	Campbell Soup
+Paul R. Charron	Liz Claiborne
+Paul R. Low, Ph.D.	Applied Materials
+Paul R. Low, Ph.D.	Solectron
+Paul R. Tregurtha	FleetBoston Financial
+Paul R. Tregurtha	FPL Group
+Paul S. Walsh	FedEx
+Paul S. Walsh	General Mills
+Paul T. Stecko	State Farm Insurance Cos
+Paul T. Stecko	Tenneco Automotive
+Paula G. Rosput	Air Products
+Paula G. Rosput	Coca-Cola Enterprises
+Paula Stern, Ph.D	Avaya
+Paula Stern, Ph.D	Avon Products
+Pei-yuan Chia	American Intl. Group
+Pei-yuan Chia	Baxter International
+Peter A. Georgescu	Levi Strauss
+Peter A. Georgescu	Toys R Us
+Peter A. Magowan	Caterpillar
+Peter A. Magowan	Safeway
+Peter C. Browning	Lowes
+Peter C. Browning	Nucor
+Peter C. Browning	Wachovia Corp.
+Peter H. Coors	Adolph Coors
+Peter H. Coors	H.J. Heinz
+Peter H. Coors	U.S. Bancorp
+Peter J. Fluor	Devon Energy
+Peter J. Fluor	Fluor
+Peter M. Sommerhauser	Kohls
+Peter M. Sommerhauser	Northwestern Mutual
+Peter R. Dolan	American Express
+Peter R. Dolan	Bristol-Myers Squibb
+Peter V. Ueberroth	Coca-Cola
+Peter V. Ueberroth	Hilton Hotels
+Peter W. Likins	Consolidated Edison
+Peter W. Likins	Parker Hannifin
+Philip A. Laskawy	General Motors
+Philip A. Laskawy	Loews
+Philip A. Laskawy	Progressive
+Philip A. Odeen	AES
+Philip A. Odeen	Avaya
+Philip A. Odeen	Northrop Grumman
+Philip E. Lippincott	Campbell Soup
+Philip E. Lippincott	Exxon Mobil
+Philip F. Anschutz	Qwest Communications
+Philip F. Anschutz	Union Pacific
+Philip J. Purcell	AMR
+Philip J. Purcell	Morgan Stanley
+Philip Lader	AES
+Philip Lader	Marathon Oil
+Philip M. Condit	Boeing
+Philip M. Condit	Hewlett-Packard
+Pierre S. Du Pont	Northwestern Mutual
+Pierre S. Du Pont	PepsiAmericas
+R. Brad Martin	Harrahs Entertainment
+R. Brad Martin	Saks
+R. David Yost	Aetna
+R. David Yost	AmerisourceBergen
+R. Kerry Clark	Procter & Gamble
+R. Kerry Clark	Textron
+Ralph F. Hake	ITT Industries
+Ralph F. Hake	Maytag
+Ralph S. Larsen	AT&T Wireless Services
+Ralph S. Larsen	General Electric
+Ralph S. Larsen	Xerox
+Ralph Snyderman	Procter & Gamble
+Ralph Snyderman	Science Applications Intl.
+Rand V. Araskog	Hartford Fin. Services
+Rand V. Araskog	ITT Industries
+Ray J. Groves	Electronic Data Systems
+Ray J. Groves	Gillette
+Ray J. Groves	Marsh & McLennan
+Ray L. Hunt	Electronic Data Systems
+Ray L. Hunt	Halliburton
+Ray L. Hunt	PepsiCo
+Ray M. Robinson	Avnet
+Ray M. Robinson	Mirant
+Raymond G. Viault	General Mills
+Raymond G. Viault	Newell Rubbermaid
+Raymond G. Viault	VF
+Raymond V. Gilmartin	General Mills
+Raymond V. Gilmartin	Merck
+Raymond V. Gilmartin	Microsoft
+Raymond W. LeBoeuf	ITT Industries
+Raymond W. LeBoeuf	PPG Industries
+Raymond W. LeBoeuf	Praxair
+Reatha Clark King	Exxon Mobil
+Reatha Clark King	Wells Fargo
+Reuben Mark	Colgate-Palmolive
+Reuben Mark	Time Warner Inc.
+Reuben V. Anderson	BellSouth
+Reuben V. Anderson	Burlington Resources
+Reuben V. Anderson	Kroger
+Richard A. Abdoo	AK Steel Holding
+Richard A. Abdoo	Wisconsin Energy
+Richard A. Manoogian	Bank One Corp.
+Richard A. Manoogian	Ford Motor
+Richard A. Manoogian	Masco
+Richard B. Kelson	MeadWestvaco
+Richard B. Kelson	PNC Financial Svcs. Group
+Richard C. Lappin	American Axle & Mfg.
+Richard C. Lappin	Premcor
+Richard C. Notebaert	Aon
+Richard C. Notebaert	Cardinal Health
+Richard C. Notebaert	Qwest Communications
+Richard D. McCormick	United Technologies
+Richard D. McCormick	Unocal
+Richard D. McCormick	Wells Fargo
+Richard D. Parsons	Citigroup
+Richard D. Parsons	Estée Lauder
+Richard D. Parsons	Time Warner Inc.
+Richard de J. Osborne	Goodrich
+Richard de J. Osborne	Schering-Plough
+Richard F. Syron	Freddie Mac
+Richard F. Syron	John Hancock Financial Services
+Richard F. Syron	McKesson
+Richard G. Lesser	Reebok International
+Richard G. Lesser	TJX
+Richard H. Anderson	Medtronic
+Richard H. Anderson	Northwest Airlines
+Richard H. Brown	DuPont
+Richard H. Brown	Home Depot
+Richard H. Lenny	Hershey Foods
+Richard H. Lenny	Sunoco
+Richard J. Kogan	Bank of New York Co.
+Richard J. Kogan	Colgate-Palmolive
+Richard K. Davidson	Kroger
+Richard K. Davidson	Union Pacific
+Richard K. Lochridge	Dover
+Richard K. Lochridge	Lowes
+Richard L. Carrión	Verizon Communications
+Richard L. Carrión	Wyeth
+Richard L. Keyser	Principal Financial
+Richard L. Keyser	Rohm & Haas
+Richard L. Keyser	W.W. Grainger
+Richard L. Thomas	Exelon
+Richard L. Thomas	Sara Lee
+Richard M. Ferry	Avery Dennison
+Richard M. Ferry	Dole Food
+Richard M. Ferry	Pacific LifeCorp
+Richard M. Kovacevich	Target
+Richard M. Kovacevich	Wells Fargo
+Richard W. Hanselman	ArvinMeritor
+Richard W. Hanselman	Health Net
+Robert A. Cornog	Johnson Controls
+Robert A. Cornog	Wisconsin Energy
+Robert A. Eckert	Mattel
+Robert A. Eckert	McDonalds
+Robert A. Essner	Mass. Mutual Life Ins.
+Robert A. Essner	Wyeth
+Robert A. Ingram	Lowes
+Robert A. Ingram	Wachovia Corp.
+Robert C. McCormack	Illinois Tool Works
+Robert C. McCormack	MeadWestvaco
+Robert C. Nakasone	Staples
+Robert C. Nakasone	Tenet Healthcare
+Robert Charles Clark	Collins & Aikman
+Robert Charles Clark	Omnicom Group
+Robert D. Kennedy	International Paper
+Robert D. Kennedy	Sunoco
+Robert D. Storey	Procter & Gamble
+Robert D. Storey	Verizon Communications
+Robert D. Walter	American Express
+Robert D. Walter	Cardinal Health
+Robert D. Walter	Viacom
+Robert E. Allen	Bristol-Myers Squibb
+Robert E. Allen	PepsiCo
+Robert E. Rubin	Citigroup
+Robert E. Rubin	Ford Motor
+Robert E. Weissman	Pitney Bowes
+Robert E. Weissman	State Street Corp.
+Robert G. Miller	Harrahs Entertainment
+Robert G. Miller	Pathmark Stores
+Robert G. Miller	Rite Aid
+Robert H. Campbell	Cigna
+Robert H. Campbell	Hershey Foods
+Robert H. Jenkins	AK Steel Holding
+Robert H. Jenkins	Visteon
+Robert Holland, Jr.	Lexmark International
+Robert Holland, Jr.	Yum Brands
+Robert I. Lipp	Bank One Corp.
+Robert I. Lipp	St. Paul Travelers
+Robert J. Brown	AutoNation
+Robert J. Brown	Duke Energy
+Robert J. Brown	Wachovia Corp.
+Robert J. Darnall	Cummins
+Robert J. Darnall	Household International
+Robert J. Darnall	United States Steel
+Robert J. Eaton	ChevronTexaco
+Robert J. Eaton	International Paper
+Robert J. Fisher	Gap
+Robert J. Fisher	Sun Microsystems
+Robert J. Herbold	Agilent Technologies
+Robert J. Herbold	Weyerhaeuser
+Robert J. Tarr, Jr.	John Hancock Financial Services
+Robert J. Tarr, Jr.	Wesco International
+Robert J. Ulrich	Target
+Robert J. Ulrich	Yum Brands
+Robert L. Barnett	Johnson Controls
+Robert L. Barnett	USG
+Robert L. Burrus, Jr.	CSX
+Robert L. Burrus, Jr.	Smithfield Foods
+Robert L. Friedman	American Axle & Mfg.
+Robert L. Friedman	Northwest Airlines
+Robert L. Friedman	Premcor
+Robert L. Johnson	General Mills
+Robert L. Johnson	Hilton Hotels
+Robert L. Johnson	US Airways Group
+Robert L. Joss	Agilent Technologies
+Robert L. Joss	Wells Fargo
+Robert L. Nardelli	Coca-Cola
+Robert L. Nardelli	Home Depot
+Robert L. Ryan	Brunswick
+Robert L. Ryan	UnitedHealth Group
+Robert M. Baylis	Host Marriott
+Robert M. Baylis	New York Life Insurance
+Robert M. Teeter	United Parcel Service
+Robert M. Teeter	Visteon
+Robert Mehrabian	Mellon Financial Corp.
+Robert Mehrabian	PPG Industries
+Robert N. Burt	Pfizer
+Robert N. Burt	Phelps Dodge
+Robert N. Pokelwaldt	FirstEnergy
+Robert N. Pokelwaldt	Mohawk Industries
+Robert N. Wilson	Amerada Hess
+Robert N. Wilson	Charles Schwab
+Robert S. Miller, Jr.	Federal-Mogul
+Robert S. Miller, Jr.	R.J. Reynolds Tobacco
+Robert S. Miller, Jr.	UAL
+Robert S. Miller, Jr.	Waste Management
+Robert S. Morrison	3M
+Robert S. Morrison	Aon
+Robert S. Morrison	Illinois Tool Works
+Robert S. Morrison	Tribune
+Robert W. Goldman	El Paso
+Robert W. Goldman	Tesoro Petroleum
+Robert W. Matschullat	Clorox
+Robert W. Matschullat	McKesson
+Robert W. Matschullat	Walt Disney
+Roger A. Enrico	Electronic Data Systems
+Roger A. Enrico	Target
+Roger G. Ackerman	Mass. Mutual Life Ins.
+Roger G. Ackerman	Pittston
+Roger S. Penske	Delphi
+Roger S. Penske	General Electric
+Roger S. Penske	Home Depot
+Roger S. Penske	United Auto Group
+Roger W. Hale	Ashland
+Roger W. Hale	H&R Block
+Roger W. Sant	AES
+Roger W. Sant	Marriott International
+Roger W. Stone	Autoliv
+Roger W. Stone	McDonalds
+Roland Hernandez	MGM Mirage
+Roland Hernandez	Wal-Mart Stores
+Ronald A. Williams	Aetna
+Ronald A. Williams	Lucent Technologies
+Ronald E. Ferguson	Colgate-Palmolive
+Ronald E. Ferguson	Hartford Fin. Services
+Ronald L. Kuehn, Jr.	AmSouth Bancorp.
+Ronald L. Kuehn, Jr.	El Paso
+Ronald L. Kuehn, Jr.	Praxair
+Ronald L. Olson	Berkshire Hathaway
+Ronald L. Olson	Edison International
+Ronald L. Sargent	Aramark
+Ronald L. Sargent	Mattel
+Ronald L. Sargent	Staples
+Ronald L. Skates	Raytheon
+Ronald L. Skates	State Street Corp.
+Ronald Townsend	Alltel
+Ronald Townsend	Bank of America Corp.
+Ronald Townsend	Winn-Dixie Stores
+Ronald W. Burkle	KB Home
+Ronald W. Burkle	Occidental Petroleum
+Rosemarie B. Greco	Exelon
+Rosemarie B. Greco	Sunoco
+Roxanne S. Austin	Abbott Laboratories
+Roxanne S. Austin	Target
+Roy S. Roberts	Abbott Laboratories
+Roy S. Roberts	Burlington Northern Santa Fe
+Roy W. Haley	United Stationers
+Roy W. Haley	Wesco International
+Rozanne L. Ridgway	3M
+Rozanne L. Ridgway	Boeing
+Rozanne L. Ridgway	Emerson Electric
+Rozanne L. Ridgway	Manpower
+Rozanne L. Ridgway	Sara Lee
+Russell E. Palmer	Honeywell Intl.
+Russell E. Palmer	May Dept. Stores
+Russell E. Palmer	Verizon Communications
+Ruth J. Simmons	Goldman Sachs Group
+Ruth J. Simmons	Pfizer
+Ruth J. Simmons	Texas Instruments
+Ruth M. Owades	Armstrong Holdings
+Ruth M. Owades	Providian Financial
+S. Jay Stewart	Autoliv
+S. Jay Stewart	Household International
+Sam Ginn	ChevronTexaco
+Sam Ginn	Hewlett-Packard
+Samir G. Gibara	Goodyear Tire & Rubber
+Samir G. Gibara	International Paper
+Samuel A. Nunn, Jr.	ChevronTexaco
+Samuel A. Nunn, Jr.	Coca-Cola
+Samuel A. Nunn, Jr.	Dell Computer
+Samuel A. Nunn, Jr.	General Electric
+Samuel C. Scott, III	Bank of New York Co.
+Samuel C. Scott, III	Motorola
+Samuel O. Their	Merck
+Samuel O. Their	TIAA-CREF
+Sandra L. Helton	Principal Financial
+Sandra L. Helton	Telephone & Data Sys.
+Sandra O. Moose	Rohm & Haas
+Sandra O. Moose	Verizon Communications
+Sanford Cloud, Jr.	Northeast Utilities
+Sanford Cloud, Jr.	Tenet Healthcare
+Sanford M. Litvack	Hewlett-Packard
+Sanford M. Litvack	PacifiCare Health Sys.
+Sara Levinson	Federated Dept. Stores
+Sara Levinson	Harley-Davidson
+Seth E. Schofield	Marathon Oil
+Seth E. Schofield	United States Steel
+Seymour Sternberg	Express Scripts
+Seymour Sternberg	New York Life Insurance
+Sheila P. Burke	Chubb
+Sheila P. Burke	WellPoint Health Networks
+Sheli Z. Rosenberg	Cendant
+Sheli Z. Rosenberg	CVS
+Sheli Z. Rosenberg	Equity Office Properties
+Shirley Ann Jackson Ph.D.	AT&T
+Shirley Ann Jackson Ph.D.	FedEx
+Shirley Ann Jackson Ph.D.	Marathon Oil
+Shirley Ann Jackson Ph.D.	Medtronic
+Shirley Ann Jackson Ph.D.	Public Service Enterprise Group
+Shirley Ann Jackson Ph.D.	United States Steel
+Shirley D. Peterson	AK Steel Holding
+Shirley D. Peterson	Federal-Mogul
+Sidney Taurel	Eli Lilly
+Sidney Taurel	Intl. Business Machines
+Sidney Taurel	McGraw-Hill
+Sir Winfried F. W. Bischoff	Eli Lilly
+Sir Winfried F. W. Bischoff	McGraw-Hill
+Solomon D. Trujillo	Gannett
+Solomon D. Trujillo	PepsiCo
+Solomon D. Trujillo	Target
+Southwood J. Morcott	CSX
+Southwood J. Morcott	Johnson Controls
+Southwood J. Morcott	Navistar International
+Stanley C. Gault	Avon Products
+Stanley C. Gault	Wal-Mart Stores
+Stanley O. Ikenberry	Pfizer
+Stanley O. Ikenberry	TIAA-CREF
+Stephen F. Bollenbach	Caesars Entertainment, Inc.
+Stephen F. Bollenbach	Hilton Hotels
+Stephen F. Bollenbach	Time Warner Inc.
+Stephen F. Page	Liberty Mutual Insurance Group
+Stephen F. Page	Lowes
+Stephen F. Page	United Technologies
+Stephen I. Chazen	Lyondell Chemical
+Stephen I. Chazen	Premcor
+Stephen L. Baum	Computer Sciences
+Stephen L. Baum	Sempra Energy
+Stephen M. Wolf	Altria Group
+Stephen M. Wolf	R.R. Donnelley & Sons
+Stephen R. Demeritt	Eastman Chemical
+Stephen R. Demeritt	General Mills
+Stephen R. Hardis	Lexmark International
+Stephen R. Hardis	Marsh & McLennan
+Stephen R. Hardis	Progressive
+Stephen W. Sanger	General Mills
+Stephen W. Sanger	Target
+Stephen W. Sanger	Wells Fargo
+Steven A. Burd	Kohls
+Steven A. Burd	Safeway
+Steven A. Minter	Goodyear Tire & Rubber
+Steven A. Minter	KeyCorp
+Steven C. Beering, M.D., Sc.D., F.A.C.P.	Eli Lilly
+Steven C. Beering, M.D., Sc.D., F.A.C.P.	NiSource
+Steven F. Goldstone	American Standard
+Steven F. Goldstone	ConAgra Foods
+Steven L. Miller	Applied Materials
+Steven L. Miller	Reliant Resources
+Steven R. Rogel	Kroger
+Steven R. Rogel	Union Pacific
+Steven R. Rogel	Weyerhaeuser
+Steven S Reinemund	Johnson & Johnson
+Steven S Reinemund	PepsiCo
+Summerfield K. Johnston, Jr.	Coca-Cola Enterprises
+Summerfield K. Johnston, Jr.	SunTrust Banks
+Susan B. King	Coca-Cola
+Susan B. King	Guidant
+Susan E. Engel	Supervalu
+Susan E. Engel	Wells Fargo
+Susan J. Kropf	Avon Products
+Susan J. Kropf	MeadWestvaco
+Susan J. Kropf	Sherwin-Williams
+Susan M. Phillips	Kroger
+Susan M. Phillips	State Farm Insurance Cos
+T. M. Solso	Ashland
+T. M. Solso	Ball
+T. M. Solso	Cummins
+Terence C. Golden	Host Marriott
+Terence C. Golden	Pepco Holdings
+Terence E. Adderley	DTE Energy
+Terence E. Adderley	Kelly Services
+Teresa Beck	Albertsons
+Teresa Beck	Lexmark International
+Teresa Beck	Textron
+Terrence Murray	Air Products
+Terrence Murray	CVS
+Terrence Murray	FleetBoston Financial
+Terry N. Christensen	Fidelity National Financial
+Terry N. Christensen	MGM Mirage
+Thomas A. Renyi	Bank of New York Co.
+Thomas A. Renyi	Public Service Enterprise Group
+Thomas C. Sutton	Edison International
+Thomas C. Sutton	Pacific LifeCorp
+Thomas E. Clarke	Newell Rubbermaid
+Thomas E. Clarke	Nike
+Thomas E. Petry	Cinergy
+Thomas E. Petry	U.S. Bancorp
+Thomas F. Frist, Jr., M.D.	HCA
+Thomas F. Frist, Jr., M.D.	Triad Hospitals
+Thomas H. Cruikshank	Lehman Brothers Hldgs.
+Thomas H. Cruikshank	Williams Companies, Inc.
+Thomas H. Kean	Amerada Hess
+Thomas H. Kean	Aramark
+Thomas H. Kean	CIT Group
+Thomas H. Kean	Pepsi Bottling
+Thomas H. Kean	UnitedHealth Group
+Thomas H. OBrien	PNC Financial Svcs. Group
+Thomas H. OBrien	Verizon Communications
+Thomas J. Donohue	Qwest Communications
+Thomas J. Donohue	Union Pacific
+Thomas J. Engibous	J.C. Penney
+Thomas J. Engibous	Texas Instruments
+Thomas J. Falk	Centex
+Thomas J. Falk	Kimberly-Clark
+Thomas J. May	FleetBoston Financial
+Thomas J. May	Liberty Mutual Insurance Group
+Thomas J. Usher	H.J. Heinz
+Thomas J. Usher	Marathon Oil
+Thomas J. Usher	PNC Financial Svcs. Group
+Thomas J. Usher	PPG Industries
+Thomas O. Ryder	Amazon.Com
+Thomas O. Ryder	Starwood Hotels & Restaurants
+Thomas P. Gerrity	CVS
+Thomas P. Gerrity	Fannie Mae
+Thomas P. Gerrity	Sunoco
+Thomas R. Gibson	Asbury Automotive Group
+Thomas R. Gibson	Ikon Office Solutions
+Thomas Ryan	CVS
+Thomas Ryan	FleetBoston Financial
+Thomas Ryan	Reebok International
+Thomas Ryan	Yum Brands
+Thomas T. Stallkamp	Baxter International
+Thomas T. Stallkamp	Visteon
+Thomas W. Jones	Altria Group
+Thomas W. Jones	Freddie Mac
+Timothy M. Donahue	Eastman Kodak
+Timothy M. Donahue	Nextel Communications
+Tully M. Friedman	Clorox
+Tully M. Friedman	Mattel
+Ursula F. Fairbairn	Air Products
+Ursula F. Fairbairn	Sunoco
+Ursula F. Fairbairn	VF
+Van B. Honeycutt	Computer Sciences
+Van B. Honeycutt	Tenet Healthcare
+Vance D. Coffman	3M
+Vance D. Coffman	Bristol-Myers Squibb
+Vance D. Coffman	Lockheed Martin
+Verne G. Istock	Kelly Services
+Verne G. Istock	Masco
+Verne G. Istock	Rockwell Automation
+Vernon E. Jordan, Jr.	American Express
+Vernon E. Jordan, Jr.	Asbury Automotive Group
+Vernon E. Jordan, Jr.	J.C. Penney
+Vernon E. Jordan, Jr.	Sara Lee
+Vernon E. Jordan, Jr.	Xerox
+Vernon R. Loucks, Jr.	Anheuser-Busch
+Vernon R. Loucks, Jr.	Emerson Electric
+Vice Admiral John R. Ryan	Cablevision Systems
+Vice Admiral John R. Ryan	CIT Group
+Victor A. Pelson	Eaton
+Victor A. Pelson	United Parcel Service
+Victor L. Lund	Borders Group
+Victor L. Lund	NCR
+Victoria F. Haynes	Nucor
+Victoria F. Haynes	PPG Industries
+Vilma S. Martinez	Anheuser-Busch
+Vilma S. Martinez	Burlington Northern Santa Fe
+Vilma S. Martinez	Fluor
+Vincent Tese	Bear Stearns
+Vincent Tese	Cablevision Systems
+W. Alan McCollough	Circuit City Stores
+W. Alan McCollough	VF
+W. Ann Reynolds, Ph.D.	Abbott Laboratories
+W. Ann Reynolds, Ph.D.	Humana
+W. Ann Reynolds, Ph.D.	Maytag
+W. Ann Reynolds, Ph.D.	Owens Corning
+W. Don Cornwell	Avon Products
+W. Don Cornwell	CVS
+W. Don Cornwell	Pfizer
+W. Douglas Ford	Air Products
+W. Douglas Ford	UAL
+W. Douglas Ford	USG
+W. Frank Blount	Caterpillar
+W. Frank Blount	Entergy
+W. G. Jurgensen	ConAgra Foods
+W. G. Jurgensen	Nationwide
+W. James Farrell	Allstate
+W. James Farrell	Illinois Tool Works
+W. James Farrell	Sears Roebuck
+W. James Farrell	UAL
+W. James McNerney, Jr.	3M
+W. James McNerney, Jr.	Boeing
+W. James McNerney, Jr.	Procter & Gamble
+W. Thomas Stephens	Qwest Communications
+W. Thomas Stephens	Xcel Energy
+Walter Scott, Jr	Berkshire Hathaway
+Walter Scott, Jr	Burlington Resources
+Walter Scott, Jr	Level 3 Communications
+Walter Scott, Jr	Peter Kiewit Sons
+Walter V. Shipley	Exxon Mobil
+Walter V. Shipley	Verizon Communications
+Walter V. Shipley	Wyeth
+Warren A. Stephens	Alltel
+Warren A. Stephens	Dillards
+Warren B. Rudman	Allied Waste Industries
+Warren B. Rudman	Chubb
+Warren B. Rudman	Collins & Aikman
+Warren B. Rudman	Raytheon
+Warren E. Buffett	Berkshire Hathaway
+Warren E. Buffett	Coca-Cola
+Warren R. Staley	Target
+Warren R. Staley	U.S. Bancorp
+Wayne A. Budd	McKesson
+Wayne A. Budd	Premcor
+Wayne R. Sanders	Adolph Coors
+Wayne R. Sanders	Texas Instruments
+Wesley W. von Schack	Energy East
+Wesley W. von Schack	Mellon Financial Corp.
+Wilbur H. Gantz	Gillette
+Wilbur H. Gantz	W.W. Grainger
+William A. Osborn	Caterpillar
+William A. Osborn	Tribune
+William B. Harrison, Jr.	J.P. Morgan Chase
+William B. Harrison, Jr.	Merck
+William C. Crowley	AutoNation
+William C. Crowley	Kmart Holding
+William C. Foote	USG
+William C. Foote	Walgreen
+William C. Richardson	Bank of New York Co.
+William C. Richardson	Kellogg
+William C. Steere, Jr.	MetLife
+William C. Steere, Jr.	Pfizer
+William D. Perez	Kellogg
+William D. Perez	May Dept. Stores
+William D. Ruckelshaus	Cummins
+William D. Ruckelshaus	Nordstrom
+William D. Ruckelshaus	Weyerhaeuser
+William D. Smithburg	Abbott Laboratories
+William D. Smithburg	Corning
+William D. Smithburg	Smurfit-Stone Container
+William Dillard II	Barnes & Noble
+William Dillard II	Dillards
+William E. Bradford	Kerr-McGee
+William E. Bradford	Valero Energy
+William E. Kennard	New York Times
+William E. Kennard	Nextel Communications
+William F. Aldinger	AT&T
+William F. Aldinger	Household International
+William F. Aldinger	Illinois Tool Works
+William G. Bowen	American Express
+William G. Bowen	Merck
+William G. Bowen	TIAA-CREF
+William G. Reed, Jr.	Microsoft
+William G. Reed, Jr.	Paccar
+William G. Reed, Jr.	Safeco
+William G. Reed, Jr.	Washington Mutual
+William H. Cunningham	Jefferson-Pilot
+William H. Cunningham	Southwest Airlines
+William H. Gates III	Costco Wholesale
+William H. Gates III	Microsoft
+William H. Gray, III	Dell Computer
+William H. Gray, III	Electronic Data Systems
+William H. Gray, III	J.P. Morgan Chase
+William H. Gray, III	Pfizer
+William H. Gray, III	Prudential Financial
+William H. Gray, III	Rockwell Automation
+William H. Gray, III	Viacom
+William H. Gray, III	Visteon
+William J. Avery	Lincoln National
+William J. Avery	Rohm & Haas
+William J. Johnson	Devon Energy
+William J. Johnson	Tesoro Petroleum
+William K. Reilly	ConocoPhillips
+William K. Reilly	DuPont
+William L. Jews	Ecolab
+William L. Jews	MBNA
+William P. Rutledge	Computer Sciences
+William P. Rutledge	Sempra Energy
+William P. Stiritz	Ball
+William P. Stiritz	May Dept. Stores
+William Porter Payne	Anheuser-Busch
+William Porter Payne	Jefferson-Pilot
+William R. Howell	American Electric Power
+William R. Howell	Exxon Mobil
+William R. Howell	Halliburton
+William R. Howell	Pfizer
+William R. Howell	Williams Companies, Inc.
+William R. Johnson	Clorox
+William R. Johnson	H.J. Heinz
+William S. Davila	Home Depot
+William S. Davila	Hormel Foods
+William S. Davila	PG&E Corp.
+William S. Stavropoulos	BellSouth
+William S. Stavropoulos	Dow Chemical
+William S. Stavropoulos	NCR
+William T. Esrey	Duke Energy
+William T. Esrey	General Mills
+William T. Kerr	Maytag
+William T. Kerr	Principal Financial
+William U. Parfet	CMS Energy
+William U. Parfet	Stryker
+William V. Hickey	Public Service Enterprise Group
+William V. Hickey	Sealed Air
+William W. Bradley	Eastman Kodak
+William W. Bradley	Starbucks
+William W. George	Goldman Sachs Group
+William W. George	Target
+Willie D. Davis	Dow Chemical
+Willie D. Davis	Fidelity National Financial
+Willie D. Davis	Johnson Controls
+Willie D. Davis	Manpower
+Willie D. Davis	MGM Mirage
+Willie D. Davis	Sara Lee
+Willie D. Davis	Wisconsin Energy
+Worley H. Clark	Georgia-Pacific
+Worley H. Clark	Merrill Lynch
