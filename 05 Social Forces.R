@@ -27,7 +27,7 @@ homophily = function(g){
   return (c(internal,external,internalprop))
 }
 
-#Homophilie für den Karate Datensatz
+#Homophilie fÃ¼r den Karate Datensatz
 data("karate")
 plot(karate)
 vertex_attr(karate)
