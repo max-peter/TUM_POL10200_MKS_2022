@@ -41,8 +41,12 @@ aufgabe_b <- function(g1, g2, g3, g4) {
 }
 homophily <- function (g) {
 
-  #Hier kommen Ihre Befehle
-  #....
+  V(g)$name=V(g)$group
+  edges = get.data.frame(g)
+  internal=length(which(edges$from == edges$to))
+  external=length(which(edges$from != edges$to))
+  internalprop = internal / (internal + external)
+  col=ifelse(edges$from == edges$to, "black", "red")
 
   return (internalprop)
 
