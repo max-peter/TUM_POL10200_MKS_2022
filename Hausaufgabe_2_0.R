@@ -31,31 +31,32 @@ aufgabe_a <- function(g1, g2, g3, g4) {
 }
 aufgabe_b <- function(g1, g2, g3, g4) {
 
-  dg1 = degree(g1, type = "global")
-  dg2 = degree(g2, type = "global")
-  dg3 = degree(g3, type = "global")
-  dg4 = degree(g4, type = "global")
+  dg1 = degree_distribution(g1, cumulative = TRUE)
+  dg2 = degree_distribution(g2, cumulative = TRUE)
+  dg3 = degree_distribution(g3, cumulative = TRUE)
+  dg4 = degree_distribution(g4, cumulative = TRUE)
 
   return(list(dg1, dg2, dg3, dg4))
 
 }
 homophily <- function (g) {
 
-  V(g)$name=V(g)$group
+  V(g)$geschlecht=c(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2)
   edges = get.data.frame(g)
   internal=length(which(edges$from == edges$to))
   external=length(which(edges$from != edges$to))
   internalprop = internal / (internal + external)
-  col=ifelse(edges$from == edges$to, "black", "red")
+  col=ifelse(edges$from == edges$to, "red", "blue")
 
-  return (internalprop)
+  return(internalprop)
 
 }
 aufgabe_c <- function(g1, g2, g3, g4) {
 
-  #Hier kommen Ihre Befehle
-  #....
-
+  hg1=homophily(g1)
+  hg1=homophily(g2)
+  hg1=homophily(g3)
+  hg1=homophily(g4)
   return(c(hg1, hg2, hg3, hg4))
 
 }
