@@ -15,6 +15,10 @@ comp=components(g)$membership
 comp
 table(comp)
 plot(g, vertex.color=comp,vertex.label=NA,vertex.size=10)
+
+# Standardfarben von R (pch=19 gefÃ¼llte Kreise!)
+plot(1:10, 1:10, col = 1:10,pch=19)
+
 # This gives us the number of components in the graph, 
 # the size of each component, and the membership of each 
 # node to a component (from bottom to top). We can color 
@@ -55,7 +59,7 @@ plot(g_largest,vertex.color=membership(communities),vertex.label=NA)
 
 
 #
-# ÜBUNG BAYRISCHER LANDTAG
+# ï¿½BUNG BAYRISCHER LANDTAG
 # Bayrischen Landtag laden (ausschuesse.txt)
 # Umwandeln in 1-Mode Personen
 # Wie viele Komponente? Visualisieren
