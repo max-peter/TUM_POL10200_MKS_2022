@@ -1,0 +1,13 @@
+luecke_a = 1001
+luecke_b = 1
+luecke_c = 1
+luecke_d = 3
+luecke_e = 30
+luecke_f = 1
+luecke_g = 7
+luecke_h = 2
+luecke_i = 55
+luecke_j = 1
+luecke_k = 2
+luecke_l = 14
+modell = "SIRS"

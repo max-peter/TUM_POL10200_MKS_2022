@@ -1,6 +1,0 @@
-knoten1	knoten2
-Anton	Berta
-Berta	Dora
-Dora	Emil
-Berta	Emil
-Gustav	Heinrich
