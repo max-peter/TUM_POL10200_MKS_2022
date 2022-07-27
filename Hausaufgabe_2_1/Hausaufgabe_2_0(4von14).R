@@ -1,15 +1,25 @@
 isRunningLocally = Sys.getenv("USERNAME") == "MaxPeter(cironeteu)"
 if(isRunningLocally) {
-    # set working directory
     # load library
     library(igraph)
     library(igraphdata)
+    # Load rstudioapi package
+    library("rstudioapi")
+    
+    # set working directory
+    # (WD <- getwd())
+    # if (!is.null(WD)) setwd(WD)
+    # Set working directory to source file location
+    # https://statisticsglobe.com/set-working-directory-to-source-file-location-automatically-in-rstudio
+    setwd(dirname(getActiveDocumentContext()$path))
+    # Check updated working directory
+    getwd()
+    
     # load test data
     g1 = read_graph("g1.txt", format =  "edgelist", directed=F)
     g2 = read_graph("g2.txt", format =  "edgelist", directed=F)
     g3 = read_graph("g3.txt", format =  "edgelist", directed=F)
     g4 = read_graph("g4.txt", format =  "edgelist", directed=F)
-    
 }
 
 if(isRunningLocally) {
